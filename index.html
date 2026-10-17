@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+  <meta name="color-scheme" content="light dark">
+  <title>You know Thailand a little go?</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Mali:wght@600;700&family=Noto+Sans+Thai:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- decorative skyline reused on cover + question screens -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="skyline" viewBox="0 0 400 72" preserveAspectRatio="xMidYMax meet">
+      <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M2 68H398"/>
+        <!-- Wat Arun-style prangs -->
+        <path d="M64 68L66 34H74L76 68M70 34V14M70 6V14M64 22L70 8L76 22M60 34H80M44 68L46 46H50L52 68M46 46L48 38L50 46M88 68L90 46H94L96 68M90 46L92 38L94 46"/>
+        <!-- buildings -->
+        <path d="M118 68V40H134V68M122 46h2M128 46h2M122 54h2M128 54h2M138 68V26H154V68M142 34h2M148 34h2M142 42h2M148 42h2M142 50h2M148 50h2"/>
+        <!-- temple gable -->
+        <path d="M168 68V54L186 42L204 54V68M162 54Q176 52 186 38Q196 52 210 54"/>
+        <!-- tuk-tuk -->
+        <path d="M232 62V50Q232 44 240 44H252L258 54H270Q274 54 274 60V62M244 44L250 36H262L266 44"/>
+        <circle cx="244" cy="63" r="4"/><circle cx="266" cy="63" r="4"/>
+        <!-- bus -->
+        <path d="M296 64V38Q296 34 300 34H376Q380 34 380 38V64H296M296 54H380M304 40H318V50H304ZM324 40H338V50H324ZM344 40H358V50H344ZM364 40H376V50H364Z"/>
+        <circle cx="316" cy="64" r="5"/><circle cx="362" cy="64" r="5"/>
+      </g>
+    </symbol>
+  </svg>
+
+  <main id="app" class="phone">
+    <!-- 1. cover -->
+    <section id="s-cover" class="screen" hidden>
+      <div class="screen-body cover">
+        <p class="date" id="cover-date"></p>
+        <p class="played" id="cover-played">&nbsp;</p>
+        <h1 class="title">You know<br>Thailand<br>little go?</h1>
+        <div class="how">
+          <h2>วิธีเล่น</h2>
+          <ol>
+            <li>ตอบคำถามเกี่ยวกับสถิติประเทศไทย วันละ <b>5 ข้อ</b></li>
+            <li>แต่ละข้อมีเวลา <b>30 วินาที</b> พิมพ์ตัวเลขที่คิดว่าใกล้เคียงที่สุด</li>
+            <li>ยิ่งเดาแม่น ยิ่งได้คะแนนเยอะ แล้วดูว่าคนอื่นเค้าตอบอะไรกัน</li>
+          </ol>
+        </div>
+        <button id="start-btn" class="btn primary big" type="button">เล่นเลย!</button>
+      </div>
+      <svg class="skyline" aria-hidden="true"><use href="#skyline"/></svg>
+    </section>
+
+    <!-- 2. question -->
+    <section id="s-question" class="screen" hidden>
+      <div class="dots" id="q-dots" aria-hidden="true"></div>
+      <div class="card q-card">
+        <div class="card-body">
+          <p class="counter" id="q-counter"></p>
+          <p class="question" id="q-text"></p>
+          <div class="answer-box">
+            <button type="button" id="sign-btn" class="sign" aria-label="สลับบวก/ลบ" hidden>±</button>
+            <input id="q-input" type="text" inputmode="decimal" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="คำตอบของคุณ">
+            <span class="unit" id="q-unit"></span>
+          </div>
+          <button id="submit-btn" class="btn primary" type="button" disabled>ส่งคำตอบ</button>
+        </div>
+        <div class="timer" id="timer" style="--p:100">
+          <div class="timer-fill"></div>
+          <div class="timer-badge" id="timer-badge" role="timer">30</div>
+        </div>
+      </div>
+      <svg class="skyline small" aria-hidden="true"><use href="#skyline"/></svg>
+    </section>
+
+    <!-- 3. reveal -->
+    <section id="s-reveal" class="screen" hidden>
+      <div class="dots" id="r-dots" aria-hidden="true"></div>
+      <div class="card r-card">
+        <div class="card-body">
+          <p class="counter" id="r-counter"></p>
+          <p class="question small" id="r-text"></p>
+          <div class="chart-wrap" id="r-chart"><div class="loading">กำลังโหลดคำตอบของคนอื่น…</div></div>
+          <div class="reveal-stats" id="r-stats"></div>
+        </div>
+      </div>
+      <button id="next-btn" class="btn primary" type="button" disabled>ข้อต่อไป</button>
+    </section>
+
+    <!-- 4. summary -->
+    <section id="s-summary" class="screen scroll" hidden>
+      <div class="screen-body summary">
+        <p class="date" id="sum-date"></p>
+        <p class="rank" id="sum-rank"></p>
+        <p class="big-score"><span id="sum-total">0</span><small>/<span id="sum-max">500</span></small></p>
+        <p class="percentile" id="sum-pct">&nbsp;</p>
+        <div class="chart-wrap" id="sum-chart"><div class="loading">กำลังโหลด…</div></div>
+        <div class="tiles" id="sum-tiles"></div>
+        <button id="share-btn" class="btn primary" type="button">แชร์ผลลัพธ์</button>
+        <pre class="share-box" id="share-box"></pre>
+        <section class="review" aria-label="เฉลยทั้งหมด"><h2>เฉลยทั้งหมด</h2><ol id="sum-review-list"></ol></section>
+        <button id="again-btn" class="btn" type="button">เล่นชุดใหม่ทันที</button>
+        <p class="next-in">โจทย์ชุดใหม่ใน <b id="next-in">--:--:--</b></p>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

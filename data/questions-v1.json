@@ -1,0 +1,5308 @@
+[
+  {
+    "question": "ในคนไทยทุก 100 คน มีกี่คนที่อายุต่ำกว่า 40 ปี ในปี 2568?",
+    "answer": 48,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "age"
+    ]
+  },
+  {
+    "question": "ในคนไทยทุก 100 คน มีกี่คนที่อายุ 60 ปีขึ้นไป ในปี 2568?",
+    "answer": 22,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "age",
+      "elderly"
+    ]
+  },
+  {
+    "question": "ในคนไทยทุก 100 คน มีกี่คนที่เป็นเด็กอายุ 0 ถึง 14 ปี ในปี 2568?",
+    "answer": 15,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "age",
+      "children"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ประเทศไทยมีคนอายุ 100 ปีขึ้นไปกี่คน?",
+    "answer": 51509,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "age",
+      "elderly"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีคนที่มีชื่ออยู่ในทะเบียนบ้านในกรุงเทพฯ กี่คน?",
+    "answer": 5422568,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในกรุงเทพฯ ปี 2568 มีผู้ชายกี่คนต่อผู้หญิงทุก 100 คน?",
+    "answer": 87,
+    "unit": "คนต่อผู้หญิง 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "gender",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ในคนไทยทุก 1,000 คน มีเด็กเกิดใหม่กี่คน?",
+    "answer": 6.2,
+    "unit": "คนต่อ 1,000 คน",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "birth"
+    ]
+  },
+  {
+    "question": "โดยเฉลี่ยแล้ว ผู้หญิงไทยหนึ่งคนมีลูกกี่คนตลอดชีวิต ณ ปี 2568?",
+    "answer": 0.9,
+    "unit": "คน",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "birth",
+      "women"
+    ]
+  },
+  {
+    "question": "อายุคาดเฉลี่ยเมื่อแรกเกิดของผู้หญิงไทยในปี 2568 คือกี่ปี?",
+    "answer": 80.1,
+    "unit": "ปี",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "health",
+      "women"
+    ]
+  },
+  {
+    "question": "อายุคาดเฉลี่ยเมื่อแรกเกิดของผู้ชายไทยในปี 2568 คือกี่ปี?",
+    "answer": 72.0,
+    "unit": "ปี",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "health",
+      "gender"
+    ]
+  },
+  {
+    "question": "ในคนไทยทุก 100 คน มีกี่คนที่อาศัยอยู่ในเขตเมือง ในปี 2568?",
+    "answer": 35,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "region"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ประชากรไทยตามทะเบียนราษฎร์มีทั้งหมดกี่คน?",
+    "answer": 65809011,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ประเทศไทยมีผู้หญิงมากกว่าผู้ชายกี่คน?",
+    "answer": 1718835,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "gender",
+      "women"
+    ]
+  },
+  {
+    "question": "ประชากรไทยตามทะเบียนราษฎร์สูงสุดในปีไหน?",
+    "answer": 2562,
+    "unit": "พ.ศ.",
+    "decimal_places": 0,
+    "tags": [
+      "population"
+    ]
+  },
+  {
+    "question": "ระหว่างปี 2567 ถึง 2568 ประชากรไทยลดลงกี่คน?",
+    "answer": 142199,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population"
+    ]
+  },
+  {
+    "question": "ในปี 2568 จำนวนคนตายมากกว่าคนเกิดอยู่กี่เปอร์เซ็นต์?",
+    "answer": 34.4,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "birth",
+      "death"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีเด็กเกิดในประเทศไทยกี่คน?",
+    "answer": 416574,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "birth"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีคนเสียชีวิตในประเทศไทยกี่คน?",
+    "answer": 559684,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "death"
+    ]
+  },
+  {
+    "question": "ในภาคอีสาน ปี 2568 จำนวนคนตายมากกว่าคนเกิดอยู่กี่เปอร์เซ็นต์?",
+    "answer": 71.1,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "birth",
+      "death",
+      "region"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีเด็กเกิดในกรุงเทพฯ กี่คน?",
+    "answer": 45685,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "birth",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปี 2462 (ค.ศ. 1919) ซึ่งเป็นปีแรกในตารางสำมะโนประชากร ประเทศไทยมีประชากรกี่คน?",
+    "answer": 9207355,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population"
+    ]
+  },
+  {
+    "question": "สำมะโนประชากรปี 2503 (ค.ศ. 1960) ประเทศไทยมีประชากรกี่คน?",
+    "answer": 26257916,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population"
+    ]
+  },
+  {
+    "question": "สำมะโนประชากรปี 2523 (ค.ศ. 1980) ประเทศไทยมีประชากรกี่คน?",
+    "answer": 44824540,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population"
+    ]
+  },
+  {
+    "question": "ในปี 2462 (ค.ศ. 1919) กรุงเทพฯ มีประชากรกี่คน?",
+    "answer": 437294,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "สำมะโนประชากรปี 2553 (ค.ศ. 2010) กรุงเทพฯ มีประชากรกี่คน?",
+    "answer": 8305218,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปี 2558 ประเทศไทยมีครัวเรือนทั้งหมดกี่ล้านครัวเรือน?",
+    "answer": 21.3,
+    "unit": "ล้านครัวเรือน",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "household"
+    ]
+  },
+  {
+    "question": "ในปี 2543 ครัวเรือนไทยมีสมาชิกเฉลี่ยกี่คน?",
+    "answer": 3.8,
+    "unit": "คน",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "household",
+      "family"
+    ]
+  },
+  {
+    "question": "ในปี 2568 กรุงเทพฯ มีคนอยู่กี่คนต่อพื้นที่ 1 ตารางกิโลเมตร?",
+    "answer": 3456.6,
+    "unit": "คนต่อตารางกิโลเมตร",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "bangkok",
+      "land"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ทั้งประเทศไทยมีคนอยู่เฉลี่ยกี่คนต่อพื้นที่ 1 ตารางกิโลเมตร?",
+    "answer": 128.2,
+    "unit": "คนต่อตารางกิโลเมตร",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "land"
+    ]
+  },
+  {
+    "question": "ในปี 2568 แม่ฮ่องสอน จังหวัดที่มีคนอยู่หนาแน่นน้อยที่สุด มีคนอยู่กี่คนต่อพื้นที่ 1 ตารางกิโลเมตร?",
+    "answer": 22.8,
+    "unit": "คนต่อตารางกิโลเมตร",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "province",
+      "land"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ภูเก็ตมีคนอยู่กี่คนต่อพื้นที่ 1 ตารางกิโลเมตร?",
+    "answer": 796.4,
+    "unit": "คนต่อตารางกิโลเมตร",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "province",
+      "land"
+    ]
+  },
+  {
+    "question": "ในปี 2568 นนทบุรีมีคนอยู่กี่คนต่อพื้นที่ 1 ตารางกิโลเมตร?",
+    "answer": 2124.8,
+    "unit": "คนต่อตารางกิโลเมตร",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "province",
+      "land"
+    ]
+  },
+  {
+    "question": "ในปี 2568 นครราชสีมา (โคราช) จังหวัดที่มีประชากรมากที่สุดรองจากกรุงเทพฯ มีประชากรกี่คน?",
+    "answer": 2613432,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2568 เชียงใหม่มีประชากรกี่คน?",
+    "answer": 1798588,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ขอนแก่นมีประชากรกี่คน?",
+    "answer": 1765967,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ภูเก็ตมีประชากรกี่คน?",
+    "answer": 432464,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ชลบุรีมีประชากรกี่คน?",
+    "answer": 1645985,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ระนอง หนึ่งในจังหวัดที่เล็กที่สุด มีประชากรกี่คน?",
+    "answer": 192487,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2568 สิงห์บุรีมีประชากรกี่คน?",
+    "answer": 198024,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "province"
+    ]
+  },
+  {
+    "question": "แม่ฮ่องสอนและตากเป็นสองจังหวัดที่มีผู้ชายมากกว่าผู้หญิง ในปี 2568 แต่ละจังหวัดมีผู้ชายกี่คนต่อผู้หญิง 100 คน?",
+    "answer": 102.1,
+    "unit": "คนต่อผู้หญิง 100 คน",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "gender",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ภาคอีสานมีประชากรกี่คน?",
+    "answer": 21539805,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "region"
+    ]
+  },
+  {
+    "question": "ในปี 2568 กรุงเทพฯ และปริมณฑล 5 จังหวัด มีประชากรรวมกี่คน?",
+    "answer": 10888519,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "bangkok",
+      "region"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ภาคใต้มีประชากรกี่คน?",
+    "answer": 9523239,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "region"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ประเทศไทยมีบ้านตามทะเบียนบ้านกี่หลัง?",
+    "answer": 29540110,
+    "unit": "หลัง",
+    "decimal_places": 0,
+    "tags": [
+      "household"
+    ]
+  },
+  {
+    "question": "ในปี 2568 กรุงเทพฯ มีบ้านตามทะเบียนบ้านกี่หลัง?",
+    "answer": 3356358,
+    "unit": "หลัง",
+    "decimal_places": 0,
+    "tags": [
+      "household",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในคนไทยทุก 100 คน มีกี่คนที่มีชื่อในทะเบียนบ้านอยู่ในเขตเทศบาล ในปี 2568?",
+    "answer": 35,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "region"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ประเทศไทยมีคนอายุ 90 ถึง 94 ปีกี่คน?",
+    "answer": 267329,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "age",
+      "elderly"
+    ]
+  },
+  {
+    "question": "ในคนไทยอายุ 85 ถึง 89 ปี ในปี 2568 มีผู้หญิงกี่คนต่อผู้ชาย 1 คน?",
+    "answer": 1.6,
+    "unit": "คนต่อผู้ชาย 1 คน",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "age",
+      "elderly",
+      "gender",
+      "women"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ประเทศไทยมีเด็กอายุ 0 ถึง 4 ปีกี่คน?",
+    "answer": 2439738,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "age",
+      "children"
+    ]
+  },
+  {
+    "question": "ในปี 2568 กลุ่มอายุ 45 ถึง 49 ปี ซึ่งเป็นกลุ่มอายุช่วง 5 ปีที่มีคนไทยมากที่สุด มีกี่คน?",
+    "answer": 5101631,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "age"
+    ]
+  },
+  {
+    "question": "คนไทยวัยทำงานทุก 100 คน ต้องดูแลเด็กและผู้สูงอายุกี่คน ในปี 2568?",
+    "answer": 57,
+    "unit": "คนต่อวัยทำงาน 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "age",
+      "children",
+      "elderly",
+      "labor"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ผู้หญิงไทยอายุ 60 ปี คาดว่าจะมีชีวิตอยู่ต่อได้อีกกี่ปี?",
+    "answer": 23.2,
+    "unit": "ปี",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "health",
+      "elderly",
+      "women"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ในคนไทยทุก 1,000 คน มีคนเสียชีวิตกี่คน?",
+    "answer": 9.3,
+    "unit": "คนต่อ 1,000 คน",
+    "decimal_places": 1,
+    "tags": [
+      "population",
+      "death"
+    ]
+  },
+  {
+    "question": "นับตั้งแต่ครั้งแรกในปี 2452 (ค.ศ. 1909) ประเทศไทยทำสำมะโนประชากรมาแล้วกี่ครั้ง?",
+    "answer": 11,
+    "unit": "ครั้ง",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "government"
+    ]
+  },
+  {
+    "question": "ในประเทศไทย ต้องแจ้งตายภายในกี่ชั่วโมง?",
+    "answer": 24,
+    "unit": "ชั่วโมง",
+    "decimal_places": 0,
+    "tags": [
+      "death",
+      "government"
+    ]
+  },
+  {
+    "question": "ชาวต่างชาติต้องอาศัยอยู่ในไทยกี่ปี จึงจะยื่นขอมีถิ่นที่อยู่ถาวรได้?",
+    "answer": 5,
+    "unit": "ปี",
+    "decimal_places": 0,
+    "tags": [
+      "population",
+      "government"
+    ]
+  },
+  {
+    "question": "ในคนทำงานไทยทุก 100 คน มีกี่คนที่เป็นแรงงานนอกระบบ ในปี 2568?",
+    "answer": 52,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "social-security"
+    ]
+  },
+  {
+    "question": "ในกำลังแรงงานไทยทุก 1,000 คน มีกี่คนที่ว่างงาน ในไตรมาส 3 ปี 2568?",
+    "answer": 8,
+    "unit": "คนจาก 1,000 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "unemployment"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 มีคนไทยว่างงานกี่คน?",
+    "answer": 307476,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "unemployment"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2564 ซึ่งเป็นช่วงที่คนไทยว่างงานมากที่สุดในรอบสิบปี มีคนไทยว่างงานกี่คน?",
+    "answer": 871270,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "unemployment"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยมีงานทำกี่คน?",
+    "answer": 39852121,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยอายุ 15 ปีขึ้นไปที่อยู่นอกกำลังแรงงานมีกี่คน?",
+    "answer": 19295328,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยวัยผู้ใหญ่ที่อยู่นอกกำลังแรงงานเพราะกำลังเรียนหนังสือมีกี่คน?",
+    "answer": 4607709,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "education"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยวัยผู้ใหญ่ที่อยู่นอกกำลังแรงงานเพราะทำงานบ้านมีกี่คน?",
+    "answer": 4595432,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "household"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 ลูกจ้างเอกชนได้ค่าจ้างเฉลี่ยเดือนละกี่บาท?",
+    "answer": 14705,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "wages"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 ลูกจ้างรัฐบาลได้ค่าจ้างเฉลี่ยเดือนละกี่บาท?",
+    "answer": 21560,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "wages",
+      "government"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 ลูกจ้างเอกชนในภาคเกษตรได้ค่าจ้างเฉลี่ยเดือนละกี่บาท?",
+    "answer": 8375,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "wages",
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 ลูกจ้างเอกชนในงานก่อสร้างได้ค่าจ้างเฉลี่ยเดือนละกี่บาท?",
+    "answer": 12371,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "wages",
+      "industry"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 ลูกจ้างเอกชนในธุรกิจการเงินและประกันภัยได้ค่าจ้างเฉลี่ยเดือนละกี่บาท?",
+    "answer": 29010,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "wages",
+      "business"
+    ]
+  },
+  {
+    "question": "ตั้งแต่กรกฎาคม 2568 ค่าแรงขั้นต่ำรายวันของกรุงเทพฯ คือกี่บาท?",
+    "answer": 400,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "wages",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปี 2561 ค่าแรงขั้นต่ำรายวันของกรุงเทพฯ คือกี่บาท?",
+    "answer": 325,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "wages",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ค่าแรงขั้นต่ำรายวันที่ต่ำที่สุดในประเทศไทยคือกี่บาท?",
+    "answer": 337,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "wages",
+      "province"
+    ]
+  },
+  {
+    "question": "ในคนทำงานไทยทุก 100 คน มีกี่คนที่ทำงาน 50 ชั่วโมงขึ้นไปต่อสัปดาห์ ในไตรมาส 3 ปี 2568?",
+    "answer": 16,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor"
+    ]
+  },
+  {
+    "question": "ในคนทำงานไทยทุก 100 คน มีกี่คนที่ทำงาน 40 ถึง 49 ชั่วโมงต่อสัปดาห์ ในไตรมาส 3 ปี 2568?",
+    "answer": 56,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor"
+    ]
+  },
+  {
+    "question": "ในคนทำงานไทยทุก 100 คน มีกี่คนที่มีอาชีพเกษตรกร ป่าไม้ หรือประมง ในไตรมาส 3 ปี 2568?",
+    "answer": 27,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "occupation",
+      "agriculture",
+      "fishery"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยทำงานในภาคเกษตร ป่าไม้ และประมง กี่คน?",
+    "answer": 11862160,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "agriculture",
+      "fishery"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยทำงานในภาคการผลิต (อุตสาหกรรม) กี่คน?",
+    "answer": 6345500,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "industry"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยทำงานด้านการขายส่งและขายปลีกกี่คน?",
+    "answer": 6812310,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "trade",
+      "business"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยทำงานในโรงแรมและร้านอาหาร (ที่พักและบริการอาหาร) กี่คน?",
+    "answer": 3349200,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "hotels",
+      "food",
+      "tourism"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยทำงานก่อสร้างกี่คน?",
+    "answer": 2040320,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "industry"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยทำงานด้านการศึกษากี่คน?",
+    "answer": 1082380,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "education"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยทำงานด้านขนส่งและคลังสินค้ากี่คน?",
+    "answer": 1717320,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "transportation"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยที่ทำงานส่วนตัวโดยไม่มีลูกจ้างมีกี่คน?",
+    "answer": 13341500,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "business"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยที่ช่วยธุรกิจครอบครัวโดยไม่ได้รับค่าจ้างมีกี่คน?",
+    "answer": 6203800,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "family"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยที่เป็นนายจ้างมีกี่คน?",
+    "answer": 944500,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "business"
+    ]
+  },
+  {
+    "question": "ในเสมียนไทยทุก 100 คน มีกี่คนที่เป็นผู้หญิง ในไตรมาส 3 ปี 2568?",
+    "answer": 71,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "occupation",
+      "women"
+    ]
+  },
+  {
+    "question": "ในผู้จัดการและสมาชิกสภานิติบัญญัติของไทยทุก 100 คน มีกี่คนที่เป็นผู้หญิง ในไตรมาส 3 ปี 2568?",
+    "answer": 37,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "occupation",
+      "women"
+    ]
+  },
+  {
+    "question": "ในลูกจ้างไทยทุก 100 คน มีกี่คนที่ได้เงินเดือนเกิน 15,000 บาท ในไตรมาส 3 ปี 2568?",
+    "answer": 30,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "wages",
+      "income"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยที่ทำงานอยู่แต่ไม่เคยเรียนหนังสือเลยมีกี่คน?",
+    "answer": 820600,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "education"
+    ]
+  },
+  {
+    "question": "ในไตรมาส 3 ปี 2568 คนไทยที่ทำงานอยู่และจบการศึกษาระดับอุดมศึกษามีกี่คน?",
+    "answer": 9477300,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "education",
+      "university"
+    ]
+  },
+  {
+    "question": "ในคนไทยอายุ 15 ถึง 19 ปีทุก 100 คน มีกี่คนที่อยู่ในกำลังแรงงาน ในไตรมาส 3 ปี 2568?",
+    "answer": 11,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "age"
+    ]
+  },
+  {
+    "question": "ในคนไทยอายุ 70 ปีขึ้นไปทุก 100 คน มีกี่คนที่ยังอยู่ในกำลังแรงงาน ในไตรมาส 3 ปี 2568?",
+    "answer": 16,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "elderly",
+      "age"
+    ]
+  },
+  {
+    "question": "ในผู้ชายไทยอายุ 70 ปีขึ้นไปทุก 100 คน มีกี่คนที่ยังอยู่ในกำลังแรงงาน ในไตรมาส 3 ปี 2568?",
+    "answer": 24,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "elderly",
+      "gender"
+    ]
+  },
+  {
+    "question": "ในคนไทยอายุ 60 ปีขึ้นไปที่ยังทำงานทุก 100 คน มีกี่คนที่เป็นแรงงานนอกระบบ ในปี 2568?",
+    "answer": 87,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "elderly",
+      "social-security"
+    ]
+  },
+  {
+    "question": "ในปี 2568 เรื่องค่าตอบแทนเป็นเรื่องที่แรงงานนอกระบบของไทยบ่นมากที่สุด มีคนพูดถึงเรื่องนี้กี่คน?",
+    "answer": 2169200,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "wages",
+      "social-security"
+    ]
+  },
+  {
+    "question": "ณ สิ้นปี 2567 มีแรงงานข้ามชาติที่ได้ใบอนุญาตทำงานในไทยกี่คน?",
+    "answer": 3350673,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "population"
+    ]
+  },
+  {
+    "question": "ณ สิ้นปี 2567 มีแรงงานข้ามชาติที่ได้ใบอนุญาตทำงานในกรุงเทพฯ กี่คน?",
+    "answer": 788957,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปีงบประมาณ 2567 ประเทศไทยมีข้าราชการกี่คน?",
+    "answer": 1387895,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "labor"
+    ]
+  },
+  {
+    "question": "ในข้าราชการไทยทุก 100 คน มีกี่คนที่เป็นผู้หญิง ในปีงบประมาณ 2567?",
+    "answer": 60,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "labor",
+      "women"
+    ]
+  },
+  {
+    "question": "ในปีงบประมาณ 2567 ข้าราชการไทยที่จบปริญญาเอกมีกี่คน?",
+    "answer": 26049,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "education",
+      "university"
+    ]
+  },
+  {
+    "question": "ประเทศไทยมีข้าราชการตำรวจกี่นายในปีงบประมาณ 2567?",
+    "answer": 213086,
+    "unit": "นาย",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "labor",
+      "crime",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในข้าราชการตำรวจไทยทุก 100 นาย มีผู้หญิงกี่คนในปีงบประมาณ 2567?",
+    "answer": 11,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "labor",
+      "women",
+      "gender",
+      "crime"
+    ]
+  },
+  {
+    "question": "ประเทศไทยมีผู้พิพากษากี่คนในปีงบประมาณ 2567?",
+    "answer": 5297,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "justice",
+      "labor"
+    ]
+  },
+  {
+    "question": "ประเทศไทยมีพนักงานอัยการกี่คนในปีงบประมาณ 2567?",
+    "answer": 4257,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "justice",
+      "labor"
+    ]
+  },
+  {
+    "question": "กระทรวงศึกษาธิการมีข้าราชการครูและบุคลากรทางการศึกษากี่คนในปีงบประมาณ 2567?",
+    "answer": 440020,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "education",
+      "labor"
+    ]
+  },
+  {
+    "question": "กระทรวงสาธารณสุขมีข้าราชการกี่คนในปีงบประมาณ 2567?",
+    "answer": 231008,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "health",
+      "labor"
+    ]
+  },
+  {
+    "question": "กระทรวงการต่างประเทศมีข้าราชการกี่คนในปีงบประมาณ 2567?",
+    "answer": 1568,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "labor"
+    ]
+  },
+  {
+    "question": "กระทรวงการท่องเที่ยวและกีฬามีข้าราชการกี่คนในปีงบประมาณ 2567?",
+    "answer": 735,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "tourism",
+      "labor"
+    ]
+  },
+  {
+    "question": "ปี 2567 ภาครัฐไทยมีลูกจ้างประจำกี่คน (ลดลงจาก 119,000 คนในปี 2563)?",
+    "answer": 75890,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "labor"
+    ]
+  },
+  {
+    "question": "ในผู้บริหารระดับสูงภาครัฐทุก 100 คน มีผู้หญิงกี่คนในปีงบประมาณ 2567?",
+    "answer": 23,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "women",
+      "gender",
+      "labor"
+    ]
+  },
+  {
+    "question": "ปีงบประมาณ 2568 ประเทศไทยใช้งบประมาณด้านการศึกษาไปกี่ล้านบาท?",
+    "answer": 477392,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "budget",
+      "government"
+    ]
+  },
+  {
+    "question": "ปี 2566 มีนักเรียนการศึกษาขั้นพื้นฐานออกกลางคันกี่คน?",
+    "answer": 1115,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school",
+      "children"
+    ]
+  },
+  {
+    "question": "ในปี 2566 นักเรียนที่ออกกลางคันกี่เปอร์เซ็นต์ออกเพราะต้องหาเลี้ยงครอบครัว ซึ่งเป็นสาเหตุอันดับหนึ่ง?",
+    "answer": 33.2,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "education",
+      "school",
+      "poverty",
+      "family"
+    ]
+  },
+  {
+    "question": "กฎหมายไทยรับรองการศึกษาขั้นพื้นฐานแบบไม่เสียค่าใช้จ่ายกี่ปี?",
+    "answer": 12,
+    "unit": "ปี",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school",
+      "government"
+    ]
+  },
+  {
+    "question": "ในปี 2568 งบประมาณด้านการศึกษาคิดเป็นกี่เปอร์เซ็นต์ของจีดีพีไทย?",
+    "answer": 2.5,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "education",
+      "budget",
+      "gdp"
+    ]
+  },
+  {
+    "question": "โดยเฉลี่ยแล้ว คนไทยวัยผู้ใหญ่ (อายุ 15 ปีขึ้นไป) ได้เรียนหนังสือกี่ปีในปี 2567?",
+    "answer": 9.2,
+    "unit": "ปี",
+    "decimal_places": 1,
+    "tags": [
+      "education",
+      "population"
+    ]
+  },
+  {
+    "question": "ในปีการศึกษา 2567 ระบบการศึกษาในระบบของไทย ตั้งแต่อนุบาลถึงมหาวิทยาลัย มีนักเรียนนักศึกษากี่คน?",
+    "answer": 12173886,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school",
+      "university"
+    ]
+  },
+  {
+    "question": "ปี 2567 มีเด็กไทยเข้าเรียนชั้น ป.1 กี่คน?",
+    "answer": 710770,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school",
+      "children"
+    ]
+  },
+  {
+    "question": "ปี 2567 มีนักเรียนชั้น ม.6 กี่คน?",
+    "answer": 673513,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ไทยมีนักศึกษาระดับอุดมศึกษากี่คน?",
+    "answer": 1990546,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "university"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ในไทยมีคนกำลังเรียนปริญญาเอกกี่คน?",
+    "answer": 34286,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "university"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ในไทยมีคนกำลังเรียนปริญญาโทกี่คน?",
+    "answer": 117129,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "university"
+    ]
+  },
+  {
+    "question": "ในนักศึกษาปริญญาตรีไทยทุก 100 คน เป็นผู้หญิงกี่คนในปี 2567?",
+    "answer": 57,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "university",
+      "women",
+      "gender"
+    ]
+  },
+  {
+    "question": "ในนักเรียนระดับมัธยมศึกษาตอนปลายทุก 100 คน เรียนสายอาชีวะกี่คนในปี 2567?",
+    "answer": 30,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school"
+    ]
+  },
+  {
+    "question": "ในคนไทยวัยเรียนมหาวิทยาลัยทุก 100 คน ได้เรียนปริญญาตรีกี่คนในปี 2567?",
+    "answer": 50,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "university",
+      "age"
+    ]
+  },
+  {
+    "question": "ในคนไทยวัยเรียนมัธยมปลายทุก 100 คน ได้เข้าเรียนกี่คนในปี 2567?",
+    "answer": 84,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school",
+      "age"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ประเทศไทยมีนักเรียนอนุบาลกี่คน?",
+    "answer": 1474329,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school",
+      "children"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ประเทศไทยมีนักเรียนชั้นประถมกี่คน?",
+    "answer": 4437564,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school",
+      "children"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ระบบการศึกษาในระบบของไทยมีครูกี่คน?",
+    "answer": 652017,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school",
+      "labor"
+    ]
+  },
+  {
+    "question": "ในปี 2567 กรุงเทพฯ มีนักเรียนนักศึกษาในระบบกี่คน?",
+    "answer": 1702264,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "bangkok",
+      "school"
+    ]
+  },
+  {
+    "question": "ในปี 2567 โรงเรียนมหิดลวิทยานุสรณ์มีนักเรียนกี่คน?",
+    "answer": 722,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ตำรวจตระเวนชายแดนดูแลโรงเรียนกี่แห่ง?",
+    "answer": 222,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school",
+      "government"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มหาวิทยาลัยการกีฬาแห่งชาติมีนักศึกษากี่คน?",
+    "answer": 11224,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "university"
+    ]
+  },
+  {
+    "question": "โดยเฉลี่ยแล้ว ห้องเรียนอนุบาลหนึ่งห้องมีนักเรียนกี่คนในปี 2567?",
+    "answer": 15.7,
+    "unit": "คน",
+    "decimal_places": 1,
+    "tags": [
+      "education",
+      "school",
+      "children"
+    ]
+  },
+  {
+    "question": "โดยเฉลี่ยแล้ว ห้องเรียนประถมหนึ่งห้องมีนักเรียนกี่คนในปี 2565?",
+    "answer": 18.9,
+    "unit": "คน",
+    "decimal_places": 1,
+    "tags": [
+      "education",
+      "school",
+      "children"
+    ]
+  },
+  {
+    "question": "ในปี 2567 สำนักการศึกษา กรุงเทพมหานคร (กทม.) ดูแลโรงเรียนกี่แห่ง?",
+    "answer": 437,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "school",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ประเทศไทยมีวัดพุทธกี่วัด?",
+    "answer": 44195,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ประเทศไทยมีพระภิกษุกี่รูป?",
+    "answer": 236652,
+    "unit": "รูป",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ประเทศไทยมีสามเณรกี่รูป?",
+    "answer": 28988,
+    "unit": "รูป",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism"
+    ]
+  },
+  {
+    "question": "จากปี 2567 ถึงปี 2568 จำนวนพระภิกษุในไทยลดลงกี่รูป?",
+    "answer": 8993,
+    "unit": "รูป",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism"
+    ]
+  },
+  {
+    "question": "ปี 2566 ประเทศไทยมีพระภิกษุกี่รูป?",
+    "answer": 256984,
+    "unit": "รูป",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism"
+    ]
+  },
+  {
+    "question": "ในปี 2568 นครราชสีมา ซึ่งเป็นจังหวัดที่มีวัดมากที่สุด มีวัดกี่วัด?",
+    "answer": 2234,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2568 เชียงใหม่มีวัดกี่วัด?",
+    "answer": 1492,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2568 กรุงเทพฯ มีวัดกี่วัด?",
+    "answer": 451,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปี 2568 กรุงเทพฯ มีพระภิกษุกี่รูป?",
+    "answer": 12431,
+    "unit": "รูป",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ภูเก็ตมีวัดกี่วัด?",
+    "answer": 45,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ภาคอีสานมีวัดกี่วัด?",
+    "answer": 22449,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "region"
+    ]
+  },
+  {
+    "question": "ปี 2568 จังหวัดกระบี่มีสามเณรกี่รูป?",
+    "answer": 0,
+    "unit": "รูป",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ประเทศไทยมีวัดร้างกี่วัด?",
+    "answer": 5671,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 เชียงใหม่ ซึ่งเป็นจังหวัดที่มีวัดร้างมากที่สุด มีวัดร้างกี่วัด?",
+    "answer": 986,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "province",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 อยุธยามีวัดร้างกี่วัด?",
+    "answer": 447,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "province",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 สุโขทัยมีวัดร้างกี่วัด?",
+    "answer": 343,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "province",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 เลยมีวัดร้างกี่วัด?",
+    "answer": 0,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "province"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีวัดไทยอยู่ในต่างประเทศกี่วัด?",
+    "answer": 719,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 สหรัฐอเมริกามีวัดไทยกี่วัด?",
+    "answer": 183,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มาเลเซียมีวัดไทยกี่วัด?",
+    "answer": 113,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 เยอรมนีมีวัดไทยกี่วัด?",
+    "answer": 64,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 สหราชอาณาจักรมีวัดไทยกี่วัด?",
+    "answer": 32,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ญี่ปุ่นมีวัดไทยกี่วัด?",
+    "answer": 26,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 สวีเดนมีวัดไทยกี่วัด?",
+    "answer": 29,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 จีนมีวัดไทยกี่วัด?",
+    "answer": 1,
+    "unit": "วัด",
+    "decimal_places": 0,
+    "tags": [
+      "religion",
+      "buddhism",
+      "culture"
+    ]
+  },
+  {
+    "question": "ในผู้ใหญ่ไทยทุก 100 คน มีกี่คนที่สูบบุหรี่เป็นประจำในปี 2567?",
+    "answer": 16,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "smoking"
+    ]
+  },
+  {
+    "question": "ในคนไทยที่สูบบุหรี่ทุก 100 คน เป็นผู้หญิงกี่คนในปี 2567?",
+    "answer": 3,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "smoking",
+      "women",
+      "gender"
+    ]
+  },
+  {
+    "question": "ในผู้ใหญ่ไทยทุก 100 คน มีกี่คนที่ดื่มแอลกอฮอล์ในปี 2567?",
+    "answer": 35,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "alcohol"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ผู้หญิงไทยที่ดื่มแอลกอฮอล์มีกี่คน?",
+    "answer": 5180000,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "alcohol",
+      "women",
+      "gender"
+    ]
+  },
+  {
+    "question": "ในปี 2567 วัยรุ่นไทยอายุ 15 ถึง 19 ปีที่สูบบุหรี่มีกี่คน?",
+    "answer": 222000,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "smoking",
+      "age"
+    ]
+  },
+  {
+    "question": "ณ ปี 2567 คนไทยที่เลิกสูบบุหรี่ได้แล้วมีกี่คน?",
+    "answer": 3468000,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "smoking"
+    ]
+  },
+  {
+    "question": "ในคนไทยทุก 100 คน มีกี่คนที่กินข้าวแค่วันละ 2 มื้อหลักในปี 2564?",
+    "answer": 9,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "food"
+    ]
+  },
+  {
+    "question": "ในเด็กไทยอายุ 6 ถึง 14 ปีทุก 100 คน มีกี่คนที่เลือกกินอาหารเพราะชอบเป็นหลักในปี 2564?",
+    "answer": 44,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "food",
+      "children"
+    ]
+  },
+  {
+    "question": "ในคนไทยทุก 100 คน มีกี่คนที่ดูราคาเป็นอย่างแรกเวลาซื้ออาหารในปี 2564?",
+    "answer": 5,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "food",
+      "prices"
+    ]
+  },
+  {
+    "question": "ในปี 2567 สถานพยาบาลของกระทรวงสาธารณสุข (นอกกรุงเทพฯ) มีผู้ป่วยนอกมารับบริการกี่ครั้ง?",
+    "answer": 203313886,
+    "unit": "ครั้ง",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "hospital"
+    ]
+  },
+  {
+    "question": "ในปี 2567 สถานพยาบาลของกระทรวงสาธารณสุขรับผู้ป่วยในกี่ราย?",
+    "answer": 26779758,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "hospital"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีคนต้องนอนโรงพยาบาลเพราะความดันโลหิตสูงกี่ราย?",
+    "answer": 2070358,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "hospital",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีคนต้องนอนโรงพยาบาลเพราะโรคเบาหวานกี่ราย?",
+    "answer": 1315232,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "hospital",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีคนต้องนอนโรงพยาบาลเพราะโรคปอดบวมกี่ราย?",
+    "answer": 665821,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "hospital",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในผู้หญิงไทยที่แต่งงานแล้ว อายุ 15 ถึง 49 ปี ทุก 100 คน มีกี่คนที่คุมกำเนิดในปี 2565?",
+    "answer": 73,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "women",
+      "marriage",
+      "birth"
+    ]
+  },
+  {
+    "question": "ในปี 2565 ผู้หญิงไทยที่แต่งงานแล้วกี่เปอร์เซ็นต์ใช้ยาเม็ดคุมกำเนิด ซึ่งเป็นวิธีคุมกำเนิดที่ใช้มากที่สุด?",
+    "answer": 31.0,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "health",
+      "women",
+      "marriage",
+      "birth"
+    ]
+  },
+  {
+    "question": "ในผู้หญิงไทยที่แต่งงานแล้วทุก 1,000 คน มีกี่คนที่บอกว่าสามีทำหมันชายแล้วในปี 2565?",
+    "answer": 2,
+    "unit": "คนจาก 1,000 คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "marriage",
+      "birth"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีคนไทยเสียชีวิตจากโรคมะเร็งกี่คน?",
+    "answer": 86558,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "death",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีคนไทยเสียชีวิตจากโรคหัวใจและระบบไหลเวียนโลหิตกี่คน?",
+    "answer": 84412,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "death",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีคนไทยเสียชีวิตจากโรคระบบทางเดินหายใจกี่คน?",
+    "answer": 56949,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "death",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีคนไทยเสียชีวิตจากอุบัติเหตุและสาเหตุภายนอกอื่น ๆ กี่คน?",
+    "answer": 41039,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "death"
+    ]
+  },
+  {
+    "question": "ในคนไทยทุก 100,000 คน มีกี่คนที่เสียชีวิตจากโรคมะเร็งในปี 2567?",
+    "answer": 133.2,
+    "unit": "คนต่อ 100,000 คน",
+    "decimal_places": 1,
+    "tags": [
+      "health",
+      "death",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ประเทศไทยมีโรงพยาบาลที่มีเตียงผู้ป่วยกี่แห่ง?",
+    "answer": 1404,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "hospital"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ประเทศไทยมีเตียงผู้ป่วยในโรงพยาบาลกี่เตียง?",
+    "answer": 174336,
+    "unit": "เตียง",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "hospital"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ประเทศไทยมีโรงพยาบาลทั่วไปเอกชนกี่แห่ง?",
+    "answer": 322,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "hospital",
+      "business"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ประเทศไทยมีแพทย์กี่คน?",
+    "answer": 43714,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "labor",
+      "occupation"
+    ]
+  },
+  {
+    "question": "โดยเฉลี่ยแล้ว แพทย์ไทยหนึ่งคนต้องดูแลประชากรกี่คนในปี 2567?",
+    "answer": 1487,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "population",
+      "occupation"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ประเทศไทยมีพยาบาลวิชาชีพกี่คน?",
+    "answer": 198836,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "labor",
+      "occupation"
+    ]
+  },
+  {
+    "question": "โดยเฉลี่ยแล้ว พยาบาลวิชาชีพหนึ่งคนต้องดูแลประชากรกี่คนในปี 2567?",
+    "answer": 327,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "population",
+      "occupation"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ประเทศไทยมีทันตแพทย์กี่คน?",
+    "answer": 8524,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "labor",
+      "occupation"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ประเทศไทยมีเภสัชกรกี่คน?",
+    "answer": 17114,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "labor",
+      "occupation"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีแพทย์ทำงานในภาคเอกชนกี่คน?",
+    "answer": 9314,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "labor",
+      "occupation",
+      "business"
+    ]
+  },
+  {
+    "question": "ณ เดือนมีนาคม 2569 ประเทศไทยมีใบอนุญาตขายยาแผนปัจจุบัน (ร้านขายยา) กี่ใบ?",
+    "answer": 18178,
+    "unit": "ใบ",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "business"
+    ]
+  },
+  {
+    "question": "ณ เดือนมีนาคม 2569 กรุงเทพฯ มีใบอนุญาตขายยาแผนปัจจุบันกี่ใบ?",
+    "answer": 3234,
+    "unit": "ใบ",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "business",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ณ เดือนมีนาคม 2569 ภูเก็ตมีใบอนุญาตขายยาแผนปัจจุบันกี่ใบ?",
+    "answer": 656,
+    "unit": "ใบ",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "business",
+      "province"
+    ]
+  },
+  {
+    "question": "อัตราการตายของมารดาของไทย ต่อการเกิดมีชีพ 100,000 คน ในปี 2567 เป็นเท่าไร?",
+    "answer": 23.8,
+    "unit": "ต่อการเกิดมีชีพ 100,000 คน",
+    "decimal_places": 1,
+    "tags": [
+      "health",
+      "death",
+      "birth",
+      "women"
+    ]
+  },
+  {
+    "question": "อัตราการตายของทารกของไทย ต่อการเกิดมีชีพ 1,000 คน ในปี 2567 เป็นเท่าไร?",
+    "answer": 5.2,
+    "unit": "ต่อการเกิดมีชีพ 1,000 คน",
+    "decimal_places": 1,
+    "tags": [
+      "health",
+      "death",
+      "birth",
+      "children"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ประเทศไทยมีผู้ป่วยไข้หวัดใหญ่กี่ราย?",
+    "answer": 1174455,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "disease"
+    ]
+  },
+  {
+    "question": "ปี 2566 มีผู้ป่วยไข้เลือดออกกี่ราย?",
+    "answer": 163760,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีผู้ป่วยโรคมือ เท้า ปาก กี่ราย?",
+    "answer": 112474,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีผู้ป่วยโรคปอดอักเสบที่อยู่ในระบบเฝ้าระวังกี่ราย?",
+    "answer": 459138,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีผู้ป่วยโรคฉี่หนูกี่ราย?",
+    "answer": 5115,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "health",
+      "disease"
+    ]
+  },
+  {
+    "question": "ในปีงบประมาณ 2568 มีคนไปจำนำของที่โรงรับจำนำของรัฐกี่คน?",
+    "answer": 1410589,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "welfare",
+      "debt",
+      "money"
+    ]
+  },
+  {
+    "question": "ในปีงบประมาณ 2568 โรงรับจำนำของรัฐปล่อยเงินกู้ไปทั้งหมดกี่ล้านบาท?",
+    "answer": 29358,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "welfare",
+      "debt",
+      "money"
+    ]
+  },
+  {
+    "question": "ในคนที่ใช้บริการโรงรับจำนำของรัฐในปีงบประมาณ 2568 ทุก 100 คน เป็นลูกจ้างหรือคนทำงานรับจ้างกี่คน?",
+    "answer": 85,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "welfare",
+      "debt",
+      "occupation",
+      "labor"
+    ]
+  },
+  {
+    "question": "ในของที่นำไปจำนำที่โรงรับจำนำของรัฐในปีงบประมาณ 2568 ทุก 100 ชิ้น เป็นทองหรือเครื่องประดับกี่ชิ้น?",
+    "answer": 98,
+    "unit": "ชิ้นจาก 100 ชิ้น",
+    "decimal_places": 0,
+    "tags": [
+      "welfare",
+      "debt",
+      "money"
+    ]
+  },
+  {
+    "question": "ในปีงบประมาณ 2568 มีคนปล่อยของจำนำหลุดไม่ไถ่คืนกี่คน?",
+    "answer": 19711,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "welfare",
+      "debt"
+    ]
+  },
+  {
+    "question": "ในปีงบประมาณ 2568 มีนาฬิกาข้อมือถูกนำไปจำนำที่โรงรับจำนำของรัฐกี่เรือน?",
+    "answer": 11243,
+    "unit": "เรือน",
+    "decimal_places": 0,
+    "tags": [
+      "welfare",
+      "debt"
+    ]
+  },
+  {
+    "question": "ในปีงบประมาณ 2568 มีเครื่องดนตรีถูกนำไปจำนำที่โรงรับจำนำของรัฐกี่ชิ้น?",
+    "answer": 1087,
+    "unit": "ชิ้น",
+    "decimal_places": 0,
+    "tags": [
+      "welfare",
+      "debt"
+    ]
+  },
+  {
+    "question": "ในปี 2566 คนไทยที่มีสิทธิบัตรทอง (บัตร 30 บาท) มีกี่ล้านคน?",
+    "answer": 51.9,
+    "unit": "ล้านคน",
+    "decimal_places": 1,
+    "tags": [
+      "welfare",
+      "health"
+    ]
+  },
+  {
+    "question": "ในปี 2566 คนไทยที่มีประกันสุขภาพเอกชนมีกี่ล้านคน?",
+    "answer": 4.49,
+    "unit": "ล้านคน",
+    "decimal_places": 2,
+    "tags": [
+      "welfare",
+      "health"
+    ]
+  },
+  {
+    "question": "ในปี 2566 คนไทยที่ใช้สิทธิสวัสดิการรักษาพยาบาลข้าราชการมีกี่ล้านคน?",
+    "answer": 4.73,
+    "unit": "ล้านคน",
+    "decimal_places": 2,
+    "tags": [
+      "welfare",
+      "health",
+      "government"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ในคนไทยทุก 100 คน มีกี่คนที่มีหลักประกันสุขภาพอย่างใดอย่างหนึ่ง?",
+    "answer": 99.7,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 1,
+    "tags": [
+      "welfare",
+      "health"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ผู้ประกันตนประกันสังคมมาตรา 33 (ลูกจ้างในระบบ) มีกี่คน?",
+    "answer": 12183749,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "social-security",
+      "welfare",
+      "labor"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ผู้ประกันตนประกันสังคมมาตรา 40 (แรงงานนอกระบบ) มีกี่คน?",
+    "answer": 11035035,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "social-security",
+      "welfare",
+      "labor"
+    ]
+  },
+  {
+    "question": "ในปี 2568 สถานประกอบการที่ขึ้นทะเบียนกับสำนักงานประกันสังคมมีกี่แห่ง?",
+    "answer": 538439,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "social-security",
+      "business"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ผู้ประกันตนใช้สิทธิกรณีเจ็บป่วยกี่ครั้ง?",
+    "answer": 44852647,
+    "unit": "ครั้ง",
+    "decimal_places": 0,
+    "tags": [
+      "social-security",
+      "health",
+      "welfare"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการยื่นขอรับประโยชน์ทดแทนกรณีว่างงานกี่ครั้ง?",
+    "answer": 818860,
+    "unit": "ครั้ง",
+    "decimal_places": 0,
+    "tags": [
+      "social-security",
+      "unemployment",
+      "welfare"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการยื่นขอรับประโยชน์ทดแทนกรณีคลอดบุตรกี่ครั้ง?",
+    "answer": 182387,
+    "unit": "ครั้ง",
+    "decimal_places": 0,
+    "tags": [
+      "social-security",
+      "birth",
+      "welfare"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีผู้ประสบอันตรายหรือเจ็บป่วยเนื่องจากการทำงานกี่ราย?",
+    "answer": 87728,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "health",
+      "social-security"
+    ]
+  },
+  {
+    "question": "ในปี 2567 มีคนทำงานเสียชีวิตจากการประสบอันตรายจากการทำงานกี่ราย?",
+    "answer": 595,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "labor",
+      "death",
+      "social-security"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ในลูกจ้างทุก 1,000 คน มีกี่คนที่ประสบอันตรายหรือเจ็บป่วยจากการทำงาน?",
+    "answer": 7.23,
+    "unit": "คนจาก 1,000 คน",
+    "decimal_places": 2,
+    "tags": [
+      "labor",
+      "health",
+      "social-security"
+    ]
+  },
+  {
+    "question": "สตูลเป็นจังหวัดที่มีอัตราการประสบอันตรายจากการทำงานสูงที่สุด ในปี 2567 ลูกจ้างทุก 1,000 คนในสตูลประสบอันตรายหรือเจ็บป่วยจากการทำงานกี่คน?",
+    "answer": 17.26,
+    "unit": "คนจาก 1,000 คน",
+    "decimal_places": 2,
+    "tags": [
+      "labor",
+      "health",
+      "province"
+    ]
+  },
+  {
+    "question": "ผู้สูงอายุกู้เงินประกอบอาชีพแบบไม่มีดอกเบี้ยจากกองทุนผู้สูงอายุเป็นรายบุคคลได้สูงสุดกี่บาท?",
+    "answer": 30000,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "elderly",
+      "welfare",
+      "debt"
+    ]
+  },
+  {
+    "question": "ในผู้ว่าราชการจังหวัดทั้ง 76 คน ในปีงบประมาณ 2567 เป็นผู้หญิงกี่คน?",
+    "answer": 2,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "government",
+      "province"
+    ]
+  },
+  {
+    "question": "ในเอกอัครราชทูตไทยทั้ง 68 คน ในปีงบประมาณ 2567 เป็นผู้หญิงกี่คน?",
+    "answer": 24,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "government"
+    ]
+  },
+  {
+    "question": "ในผู้บริหารระดับสูงสุดของตำรวจ 78 คน ในปีงบประมาณ 2567 เป็นผู้หญิงกี่คน?",
+    "answer": 0,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "government",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในข้าราชการกระทรวงสาธารณสุขทุก 100 คน ในปีงบประมาณ 2567 เป็นผู้หญิงกี่คน?",
+    "answer": 81,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "government",
+      "health"
+    ]
+  },
+  {
+    "question": "ในข้าราชการกระทรวงการคลังทุก 100 คน ในปีงบประมาณ 2567 เป็นผู้หญิงกี่คน?",
+    "answer": 75,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "government"
+    ]
+  },
+  {
+    "question": "ในข้าราชการกระทรวงยุติธรรมทุก 100 คน ในปีงบประมาณ 2567 เป็นผู้หญิงกี่คน?",
+    "answer": 36,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "government",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในข้าราชการพลเรือนสามัญทุก 100 คน ในปีงบประมาณ 2567 เป็นผู้หญิงกี่คน?",
+    "answer": 70,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "government"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ผู้หญิงไทยที่ทำงานภาคเกษตรมีกี่คน?",
+    "answer": 4837850,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "labor",
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ผู้หญิงไทยที่ทำงานภาคการผลิตมีกี่คน?",
+    "answer": 3148231,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "labor",
+      "industry"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ผู้หญิงไทยที่ทำงานในธุรกิจโรงแรมและร้านอาหารมีกี่คน?",
+    "answer": 2183133,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "labor",
+      "hotels"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ในคนไทยที่มีงานทำในระบบและจบการศึกษาระดับอุดมศึกษา ผู้หญิงมีมากกว่าผู้ชายกี่คน?",
+    "answer": 1068838,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "gender",
+      "women",
+      "labor",
+      "education",
+      "university"
+    ]
+  },
+  {
+    "question": "ในปี 2568 คนไทยอายุ 60 ปีขึ้นไปที่ยังทำงานอยู่มีกี่คน?",
+    "answer": 5406041,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "elderly",
+      "labor"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ในผู้ชายไทยอายุ 60 ปีขึ้นไปทุก 100 คน ยังทำงานอยู่กี่คน?",
+    "answer": 48,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "elderly",
+      "labor",
+      "gender"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ในผู้หญิงไทยอายุ 60 ปีขึ้นไปทุก 100 คน ยังทำงานอยู่กี่คน?",
+    "answer": 29,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "elderly",
+      "labor",
+      "gender",
+      "women"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ในผู้สูงอายุในกรุงเทพฯ ทุก 100 คน ยังทำงานอยู่กี่คน?",
+    "answer": 29,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "elderly",
+      "labor",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปี 2566 มีการแจ้งเหตุความรุนแรงในครอบครัวในประเทศไทยกี่ครั้ง?",
+    "answer": 2010,
+    "unit": "ครั้ง",
+    "decimal_places": 0,
+    "tags": [
+      "family",
+      "crime",
+      "gender"
+    ]
+  },
+  {
+    "question": "ในผู้ถูกกระทำความรุนแรงในครอบครัวที่มีการแจ้งในปี 2566 ทุก 100 คน เป็นผู้หญิงกี่คน?",
+    "answer": 79,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "family",
+      "crime",
+      "gender",
+      "women"
+    ]
+  },
+  {
+    "question": "ในปี 2565 ในผู้ชายไทยอายุ 15 ถึง 49 ปี จากครัวเรือนที่จนที่สุด 20% ทุก 100 คน อ่านหนังสือออกกี่คน?",
+    "answer": 82,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "gender",
+      "poverty",
+      "household"
+    ]
+  },
+  {
+    "question": "ในปี 2565 ในผู้หญิงไทยอายุ 15 ถึง 49 ปีทุก 100 คน อ่านหนังสือออกกี่คน?",
+    "answer": 95,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "education",
+      "gender",
+      "women"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ในผู้หญิงกรุงเทพฯ อายุ 6 ปีขึ้นไปทุก 100 คน ใช้อินเทอร์เน็ตกี่คน?",
+    "answer": 96,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "internet",
+      "technology",
+      "women",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ในผู้หญิงภาคเหนืออายุ 6 ปีขึ้นไปทุก 100 คน ใช้อินเทอร์เน็ตกี่คน?",
+    "answer": 85,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "internet",
+      "technology",
+      "women",
+      "region"
+    ]
+  },
+  {
+    "question": "ในปี 2568 คนไทยอายุ 6 ปีขึ้นไปที่ไม่ใช้อินเทอร์เน็ตมีกี่คน?",
+    "answer": 5540000,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "internet",
+      "technology",
+      "population"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ครัวเรือนไทยมีรายได้เฉลี่ยเดือนละกี่บาท?",
+    "answer": 28308,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "household",
+      "income"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ครัวเรือนไทยมีค่าใช้จ่ายเฉลี่ยเดือนละกี่บาท?",
+    "answer": 22420,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "household",
+      "expenditure"
+    ]
+  },
+  {
+    "question": "รายได้เฉลี่ยของครัวเรือนไทยสูงสุดที่เดือนละ 29,030 บาท ในปี พ.ศ. ใด?",
+    "answer": 2566,
+    "unit": "พ.ศ.",
+    "decimal_places": 0,
+    "tags": [
+      "household",
+      "income"
+    ]
+  },
+  {
+    "question": "ในปี 2558 ครัวเรือนไทยมีรายได้เฉลี่ยเดือนละกี่บาท?",
+    "answer": 26915,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "household",
+      "income"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ครัวเรือนไทยใช้จ่ายค่าอาหาร เครื่องดื่ม และยาสูบเฉลี่ยเดือนละกี่บาท?",
+    "answer": 8420,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "household",
+      "expenditure",
+      "food",
+      "smoking"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ครัวเรือนไทยมีหนี้สินเฉลี่ยครัวเรือนละกี่บาท?",
+    "answer": 153038,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "household",
+      "debt"
+    ]
+  },
+  {
+    "question": "ในปี 2566 ครัวเรือนไทยมีหนี้สินเฉลี่ยครัวเรือนละกี่บาท?",
+    "answer": 197255,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "household",
+      "debt"
+    ]
+  },
+  {
+    "question": "ในปี 2568 หนี้ครัวเรือนไทยทุก 100 บาท เป็นหนี้เพื่อการบริโภคและที่อยู่อาศัยกี่บาท?",
+    "answer": 77,
+    "unit": "บาทจาก 100 บาท",
+    "decimal_places": 0,
+    "tags": [
+      "household",
+      "debt"
+    ]
+  },
+  {
+    "question": "ในปี 2567 เส้นความยากจนของไทยอยู่ที่กี่บาทต่อคนต่อเดือน?",
+    "answer": 3078,
+    "unit": "บาทต่อคนต่อเดือน",
+    "decimal_places": 0,
+    "tags": [
+      "poverty",
+      "income"
+    ]
+  },
+  {
+    "question": "ในปี 2567 คนไทยที่อยู่ใต้เส้นความยากจนมีกี่ล้านคน?",
+    "answer": 3.4,
+    "unit": "ล้านคน",
+    "decimal_places": 1,
+    "tags": [
+      "poverty",
+      "population"
+    ]
+  },
+  {
+    "question": "ในปี 2567 ในคนไทยทุก 100 คน มีคนจนกี่คน?",
+    "answer": 4.9,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 1,
+    "tags": [
+      "poverty",
+      "population"
+    ]
+  },
+  {
+    "question": "ค่าสัมประสิทธิ์จีนีด้านการใช้จ่ายของไทยในปี 2567 อยู่ที่เท่าไหร่ (0 = เท่าเทียมสมบูรณ์, 1 = เหลื่อมล้ำสุดขั้ว)?",
+    "answer": 0.333,
+    "unit": "",
+    "decimal_places": 3,
+    "tags": [
+      "poverty",
+      "expenditure",
+      "economy"
+    ]
+  },
+  {
+    "question": "สำนักงานสถิติแห่งชาติเริ่มเก็บข้อมูลรายได้และรายจ่ายครัวเรือนตั้งแต่ปี พ.ศ. ใด?",
+    "answer": 2500,
+    "unit": "พ.ศ.",
+    "decimal_places": 0,
+    "tags": [
+      "household",
+      "income",
+      "expenditure",
+      "government"
+    ]
+  },
+  {
+    "question": "ในปีงบประมาณ 2568 สถานพินิจฯ ทั่วประเทศรับคดีเด็กและเยาวชนกี่คดี?",
+    "answer": 13399,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "justice",
+      "crime",
+      "children"
+    ]
+  },
+  {
+    "question": "ในเด็กและเยาวชนที่กระทำผิดในปีงบประมาณ 2568 ทุก 100 คน เป็นเด็กผู้ชายกี่คน?",
+    "answer": 89,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "justice",
+      "crime",
+      "children",
+      "gender"
+    ]
+  },
+  {
+    "question": "ความผิดเกี่ยวกับยาเสพติดเป็นความผิดที่เด็กและเยาวชนก่อมากที่สุด ในปีงบประมาณ 2568 มีคดียาเสพติดของเด็กและเยาวชนกี่คดี?",
+    "answer": 3428,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "justice",
+      "crime",
+      "children",
+      "drugs"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีคดีแพ่งขึ้นสู่ศาลชั้นต้นกี่คดี?",
+    "answer": 300614,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "justice"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีคดีอาญาขึ้นสู่ศาลชั้นต้นกี่คดี?",
+    "answer": 820925,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "justice",
+      "crime"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีคดียาบ้าขึ้นสู่ศาลกี่คดี?",
+    "answer": 423136,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "justice",
+      "drugs",
+      "crime"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีคดีความผิดตาม พ.ร.บ.จราจรทางบกขึ้นสู่ศาลกี่คดี?",
+    "answer": 125363,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "justice",
+      "transportation",
+      "vehicles"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีคดีความผิดตาม พ.ร.บ.อาวุธปืนขึ้นสู่ศาลกี่คดี?",
+    "answer": 32661,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "justice",
+      "crime"
+    ]
+  },
+  {
+    "question": "ในปี 2568 ศาลเยาวชนและครอบครัวรับคดีหย่ากี่คดี?",
+    "answer": 2983,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "justice",
+      "marriage",
+      "family"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีฆ่าคนตายกับตำรวจกี่คดี?",
+    "answer": 1138,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice",
+      "death"
+    ]
+  },
+  {
+    "question": "จากคดีฆ่าคนตาย 1,138 คดีที่แจ้งความในปี 2568 จับตัวผู้ต้องหาได้กี่คดี?",
+    "answer": 1075,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีพยายามฆ่ากี่คดี?",
+    "answer": 2465,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีทำร้ายร่างกายกับตำรวจกี่คดี?",
+    "answer": 11030,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีข่มขืนกับตำรวจกี่คดี?",
+    "answer": 1888,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice",
+      "women"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีลักทรัพย์กับตำรวจกี่คดี?",
+    "answer": 34915,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีลักพาตัวเรียกค่าไถ่ในประเทศไทยกี่คดี?",
+    "answer": 4,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีวางเพลิงกี่คดี?",
+    "answer": 583,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีรถยนต์หายในประเทศไทยกี่คดี?",
+    "answer": 85,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice",
+      "vehicles"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีรถจักรยานยนต์หายกี่คดี?",
+    "answer": 735,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice",
+      "motorcycles"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีฉ้อโกง (ไม่นับฉ้อโกงออนไลน์หรือทางคอมพิวเตอร์) กี่คดี?",
+    "answer": 19051,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีกรรโชกทรัพย์กี่คดี?",
+    "answer": 836,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในปี 2568 มีการแจ้งความคดีปล้นทรัพย์กี่คดี?",
+    "answer": 92,
+    "unit": "คดี",
+    "decimal_places": 0,
+    "tags": [
+      "crime",
+      "justice"
+    ]
+  },
+  {
+    "question": "ในปี 2567 จีดีพีของไทยมีมูลค่ากี่ล้านล้านบาท?",
+    "answer": 18.68,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "economy",
+      "gdp"
+    ]
+  },
+  {
+    "question": "ในปี 2567 จีดีพีไทยทุก 100 บาท มาจากภาคเกษตรกี่บาท?",
+    "answer": 8.9,
+    "unit": "บาทจาก 100 บาท",
+    "decimal_places": 1,
+    "tags": [
+      "economy",
+      "gdp",
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ในปี 2567 จีดีพีไทยทุก 100 บาท มาจากภาคอุตสาหกรรมกี่บาท?",
+    "answer": 29.4,
+    "unit": "บาทจาก 100 บาท",
+    "decimal_places": 1,
+    "tags": [
+      "economy",
+      "gdp",
+      "industry"
+    ]
+  },
+  {
+    "question": "ในปี 2567 จีดีพีไทยทุก 100 บาท มาจากภาคบริการกี่บาท?",
+    "answer": 61.7,
+    "unit": "บาทจาก 100 บาท",
+    "decimal_places": 1,
+    "tags": [
+      "economy",
+      "gdp",
+      "business"
+    ]
+  },
+  {
+    "question": "เศรษฐกิจของภูเก็ตโตเร็วที่สุดในประเทศในปี 2567 โดยโตขึ้นกี่เปอร์เซ็นต์?",
+    "answer": 23.5,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "economy",
+      "province",
+      "gdp",
+      "tourism"
+    ]
+  },
+  {
+    "question": "ในปี 2567 เศรษฐกิจของภูเก็ต (ผลิตภัณฑ์มวลรวมจังหวัด) มีมูลค่ากี่ล้านบาท?",
+    "answer": 272400,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "province",
+      "gdp"
+    ]
+  },
+  {
+    "question": "ระยองเป็นจังหวัดที่มีผลิตภัณฑ์มวลรวมจังหวัดต่อหัวสูงที่สุด ผลิตภัณฑ์มวลรวมจังหวัดต่อหัวของระยองอยู่ที่กี่บาท?",
+    "answer": 956135,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "province",
+      "gdp",
+      "income"
+    ]
+  },
+  {
+    "question": "นราธิวาสเป็นจังหวัดที่มีผลิตภัณฑ์มวลรวมจังหวัดต่อหัวต่ำที่สุด ผลิตภัณฑ์มวลรวมจังหวัดต่อหัวของนราธิวาสอยู่ที่กี่บาท?",
+    "answer": 66785,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "province",
+      "gdp",
+      "poverty"
+    ]
+  },
+  {
+    "question": "เศรษฐกิจของกรุงเทพฯ (ผลิตภัณฑ์มวลรวมจังหวัด) มีมูลค่ากี่ล้านล้านบาท?",
+    "answer": 6.35,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "economy",
+      "bangkok",
+      "gdp"
+    ]
+  },
+  {
+    "question": "ผลิตภัณฑ์มวลรวมจังหวัดต่อหัวของกรุงเทพฯ อยู่ที่กี่บาท?",
+    "answer": 697529,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "bangkok",
+      "gdp",
+      "income"
+    ]
+  },
+  {
+    "question": "เศรษฐกิจของชลบุรีมีมูลค่ากี่ล้านล้านบาท?",
+    "answer": 1.23,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "economy",
+      "province",
+      "gdp"
+    ]
+  },
+  {
+    "question": "ผลิตภัณฑ์มวลรวมต่อหัวของภาคอีสานอยู่ที่กี่บาท?",
+    "answer": 104122,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "region",
+      "gdp",
+      "income"
+    ]
+  },
+  {
+    "question": "รายได้ประชาชาติต่อหัว (GNI) ของไทยอยู่ที่กี่บาท?",
+    "answer": 257610,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "income",
+      "gdp"
+    ]
+  },
+  {
+    "question": "คนไทยใช้จ่ายเพื่อการบริโภคเฉลี่ยปีละกี่บาท (การบริโภคครัวเรือนต่อหัว)?",
+    "answer": 164008,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "expenditure",
+      "household"
+    ]
+  },
+  {
+    "question": "จีดีพีต่อหัวของไทยในปี 2568 อยู่ที่กี่บาท?",
+    "answer": 269643,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "gdp",
+      "income"
+    ]
+  },
+  {
+    "question": "ในปี 2568 เศรษฐกิจไทยโตกี่เปอร์เซ็นต์?",
+    "answer": 2.4,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "economy",
+      "gdp"
+    ]
+  },
+  {
+    "question": "หนี้สาธารณะต่อจีดีพี: จีดีพีทุก 100 บาท มีหนี้สาธารณะกี่บาท?",
+    "answer": 65.1,
+    "unit": "บาทจาก 100 บาท",
+    "decimal_places": 1,
+    "tags": [
+      "economy",
+      "debt",
+      "government",
+      "gdp"
+    ]
+  },
+  {
+    "question": "อัตราเงินเฟ้อของไทยในปี 2568 อยู่ที่กี่เปอร์เซ็นต์?",
+    "answer": -0.1,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "economy",
+      "inflation",
+      "prices"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกสินค้าไปกี่ล้านล้านบาท?",
+    "answer": 11.16,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "economy",
+      "trade",
+      "export"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยนำเข้าสินค้ากี่ล้านล้านบาท?",
+    "answer": 11.42,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "economy",
+      "trade",
+      "import"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยขาดดุลการค้ากี่ล้านบาท?",
+    "answer": 258900,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "trade",
+      "export",
+      "import"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยฆ่าสุกรไปกี่ตัว?",
+    "answer": 18924794,
+    "unit": "ตัว",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "livestock",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยฆ่าโคไปกี่ตัว?",
+    "answer": 331286,
+    "unit": "ตัว",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "livestock",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยฆ่ากระบือไปกี่ตัว?",
+    "answer": 40814,
+    "unit": "ตัว",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "livestock",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 เฉพาะกรุงเทพฯ มีการฆ่าสุกรไปกี่ตัว?",
+    "answer": 95230,
+    "unit": "ตัว",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "livestock",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ปี 2567 ไทยปลูกข้าวนาปีกี่ไร่?",
+    "answer": 61.5,
+    "unit": "ล้านไร่",
+    "decimal_places": 1,
+    "tags": [
+      "agriculture",
+      "rice",
+      "land"
+    ]
+  },
+  {
+    "question": "ปี 2567 ไทยผลิตข้าวนาปีได้กี่ตัน?",
+    "answer": 27.0,
+    "unit": "ล้านตัน",
+    "decimal_places": 1,
+    "tags": [
+      "agriculture",
+      "rice"
+    ]
+  },
+  {
+    "question": "ปี 2567 ข้าวนาปี 1 ไร่ ให้ผลผลิตเฉลี่ยกี่กิโลกรัม?",
+    "answer": 451,
+    "unit": "กิโลกรัม",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "rice",
+      "land"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยผลิตอ้อยได้กี่ตัน?",
+    "answer": 92.0,
+    "unit": "ล้านตัน",
+    "decimal_places": 1,
+    "tags": [
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ไทยผลิตมันสำปะหลังได้กี่ตัน?",
+    "answer": 26.9,
+    "unit": "ล้านตัน",
+    "decimal_places": 1,
+    "tags": [
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ไทยผลิตกระเทียมได้กี่ตัน?",
+    "answer": 53627,
+    "unit": "ตัน",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกข้าวได้กี่ล้านบาท?",
+    "answer": 154700,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "rice",
+      "export",
+      "trade"
+    ]
+  },
+  {
+    "question": "ปี 2568 สหรัฐอเมริกา ผู้ซื้อข้าวไทยรายใหญ่ที่สุด ซื้อข้าวไทยไปกี่ล้านบาท?",
+    "answer": 27100,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "rice",
+      "export",
+      "trade"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกข้าวหอมมะลิได้กี่ล้านบาท?",
+    "answer": 49900,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "rice",
+      "export",
+      "trade"
+    ]
+  },
+  {
+    "question": "รายได้ส่งออกข้าวหอมมะลิทุก 100 บาท มาจากสหรัฐอเมริกากี่บาท?",
+    "answer": 44,
+    "unit": "บาทจาก 100 บาท",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "rice",
+      "export",
+      "trade"
+    ]
+  },
+  {
+    "question": "เซเนกัล ผู้ซื้อข้าวหักจากไทยรายใหญ่ที่สุด ซื้อไปกี่ล้านบาท?",
+    "answer": 4900,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "rice",
+      "export",
+      "trade"
+    ]
+  },
+  {
+    "question": "ประเทศไทยมีสหกรณ์การเกษตรกี่แห่ง?",
+    "answer": 3079,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "business"
+    ]
+  },
+  {
+    "question": "สหกรณ์การเกษตรของไทยมีสมาชิกรวมกันกี่คน?",
+    "answer": 5920274,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "business"
+    ]
+  },
+  {
+    "question": "ประเทศไทยมีรถจดทะเบียนกี่คัน?",
+    "answer": 45517398,
+    "unit": "คัน",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "vehicles"
+    ]
+  },
+  {
+    "question": "รถจดทะเบียนในไทยทุก 100 คัน เป็นรถจักรยานยนต์กี่คัน?",
+    "answer": 53,
+    "unit": "คันจาก 100 คัน",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "vehicles",
+      "motorcycles"
+    ]
+  },
+  {
+    "question": "ไทยมีรถยนต์นั่งส่วนบุคคล (ไม่เกิน 7 ที่นั่ง) จดทะเบียนกี่คัน?",
+    "answer": 12522390,
+    "unit": "คัน",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "vehicles"
+    ]
+  },
+  {
+    "question": "ไทยมีรถตุ๊กตุ๊กจดทะเบียนกี่คัน?",
+    "answer": 17010,
+    "unit": "คัน",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "vehicles"
+    ]
+  },
+  {
+    "question": "ไทยมีรถแท็กซี่ในเมืองจดทะเบียนกี่คัน?",
+    "answer": 72230,
+    "unit": "คัน",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "vehicles"
+    ]
+  },
+  {
+    "question": "ไทยมีรถโดยสารประจำทางจดทะเบียนกี่คัน?",
+    "answer": 49644,
+    "unit": "คัน",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "vehicles"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยมีใบขับขี่ที่ยังไม่หมดอายุกี่ใบ?",
+    "answer": 35061958,
+    "unit": "ใบ",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "vehicles"
+    ]
+  },
+  {
+    "question": "คนกรุงเทพฯ ถือใบขับขี่กี่ใบ?",
+    "answer": 5587270,
+    "unit": "ใบ",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "vehicles",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ทางรถไฟของไทยยาวกี่กิโลเมตร?",
+    "answer": 5662,
+    "unit": "กิโลเมตร",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "rail"
+    ]
+  },
+  {
+    "question": "ไทยมีรถไฟฟ้าในเมืองรวมกันยาวกี่กิโลเมตร?",
+    "answer": 281,
+    "unit": "กิโลเมตร",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "rail",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "สนามบินสุวรรณภูมิเปิดใช้ในปี พ.ศ. ใด?",
+    "answer": 2549,
+    "unit": "พ.ศ.",
+    "decimal_places": 0,
+    "tags": [
+      "transportation",
+      "aviation"
+    ]
+  },
+  {
+    "question": "ใน 1 ปี คนไทยเติมแก๊สโซฮอล์ E10 95 ไปกี่ล้านลิตร?",
+    "answer": 6960,
+    "unit": "ล้านลิตร",
+    "decimal_places": 0,
+    "tags": [
+      "energy",
+      "fuel"
+    ]
+  },
+  {
+    "question": "ในคนไทย (อายุ 6 ปีขึ้นไป) ทุก 100 คน มีกี่คนที่ใช้อินเทอร์เน็ต?",
+    "answer": 92,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "technology",
+      "internet"
+    ]
+  },
+  {
+    "question": "ในครัวเรือนไทยทุก 100 ครัวเรือน มีกี่ครัวเรือนที่มีคอมพิวเตอร์?",
+    "answer": 20,
+    "unit": "ครัวเรือนจาก 100 ครัวเรือน",
+    "decimal_places": 0,
+    "tags": [
+      "technology",
+      "household"
+    ]
+  },
+  {
+    "question": "ในคนไทย (อายุ 6 ปีขึ้นไป) ทุก 100 คน มีกี่คนที่ใช้โทรศัพท์มือถือ?",
+    "answer": 96,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "technology",
+      "mobile"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไปรษณีย์ไทยรับส่งจดหมายในประเทศไปกี่ชิ้น?",
+    "answer": 1240,
+    "unit": "ล้านชิ้น",
+    "decimal_places": 0,
+    "tags": [
+      "post",
+      "technology"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไปรษณีย์ไทยรับส่งพัสดุในประเทศไปกี่ชิ้น?",
+    "answer": 6238366,
+    "unit": "ชิ้น",
+    "decimal_places": 0,
+    "tags": [
+      "post",
+      "technology"
+    ]
+  },
+  {
+    "question": "ปี 2568 มีนักท่องเที่ยวต่างชาติมาเที่ยวไทยกี่คน?",
+    "answer": 32974321,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2564 (ช่วงโควิด) มีนักท่องเที่ยวต่างชาติมาเที่ยวไทยกี่คน?",
+    "answer": 427870,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism",
+      "disease"
+    ]
+  },
+  {
+    "question": "ปี 2568 นักท่องเที่ยวจากมาเลเซีย ซึ่งมาเที่ยวไทยมากที่สุด มีกี่คน?",
+    "answer": 4520856,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2568 นักท่องเที่ยวจีนมาเที่ยวไทยกี่คน?",
+    "answer": 4473992,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2567 นักท่องเที่ยวจีนมาเที่ยวไทยกี่คน?",
+    "answer": 6733162,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2568 นักท่องเที่ยวอินเดียมาเที่ยวไทยกี่คน?",
+    "answer": 2487319,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2568 นักท่องเที่ยวรัสเซียมาเที่ยวไทยกี่คน?",
+    "answer": 1898837,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2568 นักท่องเที่ยวเกาหลีใต้มาเที่ยวไทยกี่คน?",
+    "answer": 1555227,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2568 นักท่องเที่ยวญี่ปุ่นมาเที่ยวไทยกี่คน?",
+    "answer": 1091227,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2568 นักท่องเที่ยวอเมริกันมาเที่ยวไทยกี่คน?",
+    "answer": 1081929,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism"
+    ]
+  },
+  {
+    "question": "ค่าห้องพักโรงแรมในไทยเฉลี่ยคืนละกี่บาท?",
+    "answer": 1832,
+    "unit": "บาทต่อคืน",
+    "decimal_places": 0,
+    "tags": [
+      "tourism",
+      "hotels",
+      "prices"
+    ]
+  },
+  {
+    "question": "ห้องพักโรงแรมในไทยทุก 100 ห้อง ในคืนปกติมีคนเข้าพักกี่ห้อง?",
+    "answer": 71,
+    "unit": "ห้องจาก 100 ห้อง",
+    "decimal_places": 0,
+    "tags": [
+      "tourism",
+      "hotels"
+    ]
+  },
+  {
+    "question": "ไทยมีสถานที่พักแรมที่จดทะเบียนกี่แห่ง?",
+    "answer": 20646,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "tourism",
+      "hotels"
+    ]
+  },
+  {
+    "question": "ไทยมีโรงแรมกี่แห่ง?",
+    "answer": 6809,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "tourism",
+      "hotels"
+    ]
+  },
+  {
+    "question": "ไทยมีรีสอร์ตกี่แห่ง?",
+    "answer": 8742,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "tourism",
+      "hotels"
+    ]
+  },
+  {
+    "question": "ไทยมีโฮมสเตย์ที่จดทะเบียนกี่แห่ง?",
+    "answer": 1091,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "tourism",
+      "hotels"
+    ]
+  },
+  {
+    "question": "ไทยมีที่พักแบบเรือนแพที่จดทะเบียนกี่แห่ง?",
+    "answer": 151,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "tourism",
+      "hotels"
+    ]
+  },
+  {
+    "question": "เหรียญ 10 บาทหมุนเวียนอยู่ในระบบกี่เหรียญ?",
+    "answer": 28441,
+    "unit": "ล้านเหรียญ",
+    "decimal_places": 0,
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "question": "เหรียญ 5 บาทหมุนเวียนอยู่ในระบบกี่เหรียญ?",
+    "answer": 24542,
+    "unit": "ล้านเหรียญ",
+    "decimal_places": 0,
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "question": "เหรียญ 1 บาทหมุนเวียนอยู่ในระบบกี่เหรียญ?",
+    "answer": 21237,
+    "unit": "ล้านเหรียญ",
+    "decimal_places": 0,
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "question": "เหรียญ 1 สตางค์ยังหมุนเวียนอยู่ในระบบกี่เหรียญ?",
+    "answer": 0.06,
+    "unit": "ล้านเหรียญ",
+    "decimal_places": 2,
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "question": "เหรียญกษาปณ์ทั้งหมดที่หมุนเวียนในไทยมีกี่เหรียญ?",
+    "answer": 89596,
+    "unit": "ล้านเหรียญ",
+    "decimal_places": 0,
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "question": "งบประมาณรายจ่ายประจำปีงบประมาณ 2569 ของไทยมีกี่ล้านล้านบาท?",
+    "answer": 3.78,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "budget",
+      "government"
+    ]
+  },
+  {
+    "question": "งบประมาณปี 2569 เป็นรายจ่ายลงทุนกี่ล้านบาท?",
+    "answer": 861700,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "budget",
+      "government"
+    ]
+  },
+  {
+    "question": "ไทยสร้างขยะมูลฝอยวันละกี่ตัน?",
+    "answer": 76067,
+    "unit": "ตันต่อวัน",
+    "decimal_places": 0,
+    "tags": [
+      "environment",
+      "waste"
+    ]
+  },
+  {
+    "question": "ไทยมีพื้นที่ป่าไม้กี่ไร่?",
+    "answer": 101.67,
+    "unit": "ล้านไร่",
+    "decimal_places": 2,
+    "tags": [
+      "environment",
+      "forest",
+      "land"
+    ]
+  },
+  {
+    "question": "ปี 2567 ไฟป่าเผาผลาญพื้นที่ไปกี่ไร่?",
+    "answer": 399409,
+    "unit": "ไร่",
+    "decimal_places": 0,
+    "tags": [
+      "environment",
+      "forest"
+    ]
+  },
+  {
+    "question": "ฝั่งตะวันตกเฉียงใต้ (ฝั่งอันดามัน) มีฝนตกเฉลี่ยปีละกี่มิลลิเมตร?",
+    "answer": 3096.7,
+    "unit": "มิลลิเมตร",
+    "decimal_places": 1,
+    "tags": [
+      "environment",
+      "weather",
+      "water"
+    ]
+  },
+  {
+    "question": "เขื่อนศรีนครินทร์เก็บน้ำได้กี่ล้านลูกบาศก์เมตร?",
+    "answer": 16108,
+    "unit": "ล้านลูกบาศก์เมตร",
+    "decimal_places": 0,
+    "tags": [
+      "environment",
+      "water"
+    ]
+  },
+  {
+    "question": "ประเทศไทยมีพื้นที่กี่ตารางกิโลเมตร?",
+    "answer": 513139.5,
+    "unit": "ตารางกิโลเมตร",
+    "decimal_places": 1,
+    "tags": [
+      "land",
+      "environment"
+    ]
+  },
+  {
+    "question": "ปี 2567 ครัวเรือนไทยใช้จ่ายค่าอาหารและเครื่องดื่มไม่มีแอลกอฮอล์กี่ล้านล้านบาท?",
+    "answer": 2.9,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "expenditure",
+      "household",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่าเหล้าและบุหรี่กี่ล้านบาท?",
+    "answer": 309000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "alcohol",
+      "smoking"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่าเครื่องดื่มแอลกอฮอล์อย่างเดียวกี่ล้านบาท?",
+    "answer": 196700,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "alcohol"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่ายาสูบกี่ล้านบาท?",
+    "answer": 112500,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "smoking"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่าผักกี่ล้านบาท?",
+    "answer": 631700,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่าเนื้อสัตว์กี่ล้านบาท?",
+    "answer": 294700,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่าปลาและอาหารทะเลกี่ล้านบาท?",
+    "answer": 273200,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "food",
+      "fishery"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่าน้ำตาล ขนม และของหวานกี่ล้านบาท?",
+    "answer": 120600,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่าเสื้อผ้ากี่ล้านบาท?",
+    "answer": 298200,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่ารองเท้ากี่ล้านบาท?",
+    "answer": 29000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่าไฟฟ้า แก๊ส และเชื้อเพลิงในบ้านกี่ล้านบาท?",
+    "answer": 368000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "energy",
+      "electricity",
+      "fuel",
+      "household"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้เงินซื้อรถกี่ล้านบาท?",
+    "answer": 318000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "vehicles"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่าหนังสือพิมพ์ หนังสือ และเครื่องเขียนกี่ล้านบาท?",
+    "answer": 50700,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "education"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายค่าดูแลตัวเองกี่ล้านบาท?",
+    "answer": 238600,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "health"
+    ]
+  },
+  {
+    "question": "ปี 2567 มีการใช้จ่ายในร้านอาหารและโรงแรมในไทยกี่ล้านล้านบาท?",
+    "answer": 2.6,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "expenditure",
+      "food",
+      "hotels",
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2567 ชาวต่างชาติใช้จ่ายในไทยกี่ล้านล้านบาท?",
+    "answer": 1.36,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "expenditure",
+      "tourism",
+      "economy"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยใช้จ่ายตอนอยู่ต่างประเทศกี่ล้านบาท?",
+    "answer": 492600,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "expenditure",
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2567 รัฐบาลไทยใช้จ่ายด้านการป้องกันประเทศ (รายจ่ายเพื่อการบริโภค) กี่ล้านบาท?",
+    "answer": 278800,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "budget",
+      "expenditure"
+    ]
+  },
+  {
+    "question": "ปี 2567 รัฐบาลไทยใช้จ่ายด้านการศึกษา (รายจ่ายเพื่อการบริโภค) กี่ล้านบาท?",
+    "answer": 892000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "education",
+      "expenditure"
+    ]
+  },
+  {
+    "question": "ปี 2567 รัฐบาลไทยใช้จ่ายด้านสาธารณสุข (รายจ่ายเพื่อการบริโภค) กี่ล้านบาท?",
+    "answer": 664000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "health",
+      "expenditure"
+    ]
+  },
+  {
+    "question": "ปี 2567 รัฐบาลไทยใช้จ่ายด้านการคุ้มครองสิ่งแวดล้อมกี่ล้านบาท?",
+    "answer": 39200,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "government",
+      "environment",
+      "expenditure"
+    ]
+  },
+  {
+    "question": "ปี 2567 ภาคอุตสาหกรรมการผลิตของไทยมีมูลค่าในจีดีพีกี่ล้านล้านบาท?",
+    "answer": 4.53,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "economy",
+      "gdp",
+      "industry"
+    ]
+  },
+  {
+    "question": "ปี 2567 ภาคที่พักแรมและบริการด้านอาหารของไทยมีมูลค่ากี่ล้านล้านบาท?",
+    "answer": 1.15,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "economy",
+      "gdp",
+      "hotels",
+      "food",
+      "tourism"
+    ]
+  },
+  {
+    "question": "ปี 2567 สาขาศิลปะ ความบันเทิง และนันทนาการ สร้างมูลค่าในจีดีพีกี่ล้านบาท?",
+    "answer": 125000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "gdp",
+      "culture"
+    ]
+  },
+  {
+    "question": "ปี 2567 ครัวเรือนที่จ้างแม่บ้านและลูกจ้างทำงานบ้าน สร้างมูลค่าในจีดีพีกี่ล้านบาท?",
+    "answer": 35800,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "gdp",
+      "household",
+      "labor"
+    ]
+  },
+  {
+    "question": "ปี 2567 ลูกจ้างทั้งหมดในไทยมีรายได้รวมกันกี่ล้านล้านบาท?",
+    "answer": 5.86,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "wages",
+      "labor",
+      "income"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยเก็บออมเฉลี่ยคนละกี่บาท (เงินออมส่วนบุคคลต่อหัว)?",
+    "answer": 2797,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "money",
+      "income",
+      "household"
+    ]
+  },
+  {
+    "question": "ปี 2567 รายได้สุทธิที่ใช้จ่ายได้ของคนไทยต่อคนเป็นกี่บาท?",
+    "answer": 154668,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "income",
+      "economy"
+    ]
+  },
+  {
+    "question": "ปี 2567 คนไทยลงทุนสร้างบ้านใหม่ (ที่อยู่อาศัยภาคเอกชน) กี่ล้านบาท?",
+    "answer": 288800,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "household"
+    ]
+  },
+  {
+    "question": "ปี 2567 มีการลงทุนในอุปกรณ์สำนักงานในไทยกี่ล้านล้านบาท?",
+    "answer": 1.05,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "economy",
+      "business",
+      "technology"
+    ]
+  },
+  {
+    "question": "ปี 2567 เศรษฐกิจของจังหวัดระยองมีมูลค่ากี่ล้านล้านบาท?",
+    "answer": 1.1,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "economy",
+      "gdp",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2567 ผลิตภัณฑ์มวลรวมจังหวัด (GPP) ต่อหัวของเชียงใหม่เป็นกี่บาท?",
+    "answer": 164479,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "gdp",
+      "province",
+      "income"
+    ]
+  },
+  {
+    "question": "ปี 2567 ผลิตภัณฑ์มวลรวมจังหวัด (GPP) ต่อหัวของภูเก็ตเป็นกี่บาท?",
+    "answer": 439652,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "gdp",
+      "province",
+      "income"
+    ]
+  },
+  {
+    "question": "ผลิตภัณฑ์มวลรวมจังหวัด (GPP) ต่อหัวของขอนแก่นในปี 2567 อยู่ที่กี่บาท?",
+    "answer": 140255,
+    "unit": "บาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "gdp",
+      "province",
+      "income"
+    ]
+  },
+  {
+    "question": "ปี 2567 เศรษฐกิจทั้งจังหวัดของแม่ฮ่องสอนมีมูลค่ากี่ล้านบาท?",
+    "answer": 17900,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "gdp",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2567 เศรษฐกิจของสมุทรปราการมีขนาดกี่ล้านบาท?",
+    "answer": 769400,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "gdp",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2567 เศรษฐกิจของนครราชสีมา (โคราช) มีขนาดกี่ล้านบาท?",
+    "answer": 349200,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "gdp",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2567 เศรษฐกิจของสงขลามีขนาดกี่ล้านบาท?",
+    "answer": 268700,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "economy",
+      "gdp",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2568 มีปลาสดผ่านสะพานปลาและท่าเทียบเรือของไทยกี่ตัน?",
+    "answer": 143806,
+    "unit": "ตัน",
+    "decimal_places": 0,
+    "tags": [
+      "fishery",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2563 มีปลาผ่านสะพานปลาและท่าเทียบเรือของไทยกี่ตัน?",
+    "answer": 261277,
+    "unit": "ตัน",
+    "decimal_places": 0,
+    "tags": [
+      "fishery",
+      "food"
+    ]
+  },
+  {
+    "question": "สัตว์น้ำทะเลที่ขึ้นท่าที่สะพานปลาทุก 100 ตัน เป็น \"ปลาเป็ด\" กี่ตัน?",
+    "answer": 21,
+    "unit": "ตันจาก 100 ตัน",
+    "decimal_places": 0,
+    "tags": [
+      "fishery"
+    ]
+  },
+  {
+    "question": "ปี 2568 ปลาทูที่ขึ้นท่าที่สะพานปลาลดลงไปกี่เปอร์เซ็นต์?",
+    "answer": -44,
+    "unit": "%",
+    "decimal_places": 0,
+    "tags": [
+      "fishery",
+      "food"
+    ]
+  },
+  {
+    "question": "สำมะโนการเกษตรของไทยปี 2566 นับผู้ถือครองที่ดินทำการเกษตรได้กี่ราย?",
+    "answer": 8606474,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "land"
+    ]
+  },
+  {
+    "question": "ปี 2566 ผู้ถือครองที่ดินทำการเกษตรของไทยที่อายุ 65 ปีขึ้นไปมีกี่ราย?",
+    "answer": 2436201,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "elderly",
+      "age"
+    ]
+  },
+  {
+    "question": "ปี 2566 ผู้ถือครองที่ดินทำการเกษตรของไทยที่อายุต่ำกว่า 25 ปีมีกี่ราย?",
+    "answer": 35160,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "age"
+    ]
+  },
+  {
+    "question": "ปี 2566 ผู้ถือครองที่ดินทำการเกษตรที่กู้เงินจาก ธ.ก.ส. มีกี่ราย?",
+    "answer": 2011069,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "debt"
+    ]
+  },
+  {
+    "question": "ปี 2566 ผู้ถือครองที่ดินทำการเกษตรที่กู้เงินนอกระบบมีกี่ราย?",
+    "answer": 292248,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "debt"
+    ]
+  },
+  {
+    "question": "ตั้งแต่ปี 2493 ไทยทำสำมะโนการเกษตรมาแล้วกี่ครั้ง?",
+    "answer": 7,
+    "unit": "ครั้ง",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ปี 2566 ไทยมีเนื้อที่ถือครองทำการเกษตรกี่ล้านไร่?",
+    "answer": 147.7,
+    "unit": "ล้านไร่",
+    "decimal_places": 1,
+    "tags": [
+      "agriculture",
+      "land"
+    ]
+  },
+  {
+    "question": "ในปี 2566 พื้นที่เกษตรของไทยทุก 100 ไร่ เป็นที่ดินที่เจ้าของทำเองกี่ไร่?",
+    "answer": 48,
+    "unit": "ไร่จาก 100 ไร่",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "land"
+    ]
+  },
+  {
+    "question": "กรุงเทพฯ มีพื้นที่เกษตรกี่ไร่?",
+    "answer": 217137,
+    "unit": "ไร่",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "land",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ปี 2566 ไทยมีพื้นที่นาข้าวกี่ล้านไร่?",
+    "answer": 64.0,
+    "unit": "ล้านไร่",
+    "decimal_places": 1,
+    "tags": [
+      "rice",
+      "agriculture",
+      "land"
+    ]
+  },
+  {
+    "question": "กรุงเทพฯ มีพื้นที่นาข้าวกี่ไร่?",
+    "answer": 91659,
+    "unit": "ไร่",
+    "decimal_places": 0,
+    "tags": [
+      "rice",
+      "agriculture",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ภาคอีสานซึ่งเป็นภาคที่มีพื้นที่นาข้าวมากที่สุด มีพื้นที่นาข้าวกี่ล้านไร่?",
+    "answer": 39.1,
+    "unit": "ล้านไร่",
+    "decimal_places": 1,
+    "tags": [
+      "rice",
+      "region",
+      "land"
+    ]
+  },
+  {
+    "question": "ปี 2567 ข้าวนาปีในภาคอีสานได้ผลผลิตไร่ละกี่กิโลกรัม?",
+    "answer": 367,
+    "unit": "กก. ต่อไร่",
+    "decimal_places": 0,
+    "tags": [
+      "rice",
+      "region"
+    ]
+  },
+  {
+    "question": "ปี 2567 ข้าวนาปีในภาคกลางได้ผลผลิตไร่ละกี่กิโลกรัม?",
+    "answer": 612,
+    "unit": "กก. ต่อไร่",
+    "decimal_places": 0,
+    "tags": [
+      "rice",
+      "region"
+    ]
+  },
+  {
+    "question": "อุบลราชธานีซึ่งเป็นจังหวัดที่ผลิตข้าวนาปีได้มากที่สุด ผลิตข้าวนาปีได้ประมาณกี่ล้านตัน?",
+    "answer": 1.48,
+    "unit": "ล้านตัน",
+    "decimal_places": 2,
+    "tags": [
+      "rice",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2567 สุพรรณบุรีผลิตข้าวนาปีได้กี่ตัน?",
+    "answer": 886454,
+    "unit": "ตัน",
+    "decimal_places": 0,
+    "tags": [
+      "rice",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2567 ภูเก็ตผลิตข้าวนาปีได้กี่ตัน?",
+    "answer": 9,
+    "unit": "ตัน",
+    "decimal_places": 0,
+    "tags": [
+      "rice",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2568 มีการปลูกข้าวนาปรังกี่ล้านไร่?",
+    "answer": 12.6,
+    "unit": "ล้านไร่",
+    "decimal_places": 1,
+    "tags": [
+      "rice",
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ปี 2568 ข้าวนาปรังได้ผลผลิตไร่ละกี่กิโลกรัม?",
+    "answer": 655,
+    "unit": "กก. ต่อไร่",
+    "decimal_places": 0,
+    "tags": [
+      "rice",
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ปี 2568 อ้อยได้ผลผลิตไร่ละกี่กิโลกรัม?",
+    "answer": 9560,
+    "unit": "กก. ต่อไร่",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ปี 2568 มันสำปะหลังได้ผลผลิตไร่ละกี่กิโลกรัม?",
+    "answer": 3169,
+    "unit": "กก. ต่อไร่",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยผลิตมันฝรั่งได้กี่ตัน?",
+    "answer": 128643,
+    "unit": "ตัน",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยผลิตหอมหัวใหญ่ได้กี่ตัน?",
+    "answer": 32084,
+    "unit": "ตัน",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยผลิตหอมแดงได้กี่ตัน?",
+    "answer": 159444,
+    "unit": "ตัน",
+    "decimal_places": 0,
+    "tags": [
+      "agriculture",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 มีการปลูกมันสำปะหลังกี่ล้านไร่?",
+    "answer": 8.8,
+    "unit": "ล้านไร่",
+    "decimal_places": 1,
+    "tags": [
+      "agriculture",
+      "land"
+    ]
+  },
+  {
+    "question": "ปี 2568 มีการเก็บเกี่ยวอ้อยกี่ล้านไร่?",
+    "answer": 9.6,
+    "unit": "ล้านไร่",
+    "decimal_places": 1,
+    "tags": [
+      "agriculture",
+      "land"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยมีโรงงานที่ได้รับอนุญาตกี่แห่ง?",
+    "answer": 73996,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "industry"
+    ]
+  },
+  {
+    "question": "โรงงานในไทยทุก 100 แห่ง อยู่ในกรุงเทพฯ และปริมณฑลกี่แห่ง?",
+    "answer": 39,
+    "unit": "แห่งจาก 100 แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "industry",
+      "bangkok",
+      "region"
+    ]
+  },
+  {
+    "question": "ปี 2568 มีคนทำงานในโรงงานที่ได้รับอนุญาตของไทยกี่คน?",
+    "answer": 4068190,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "industry",
+      "labor"
+    ]
+  },
+  {
+    "question": "ในคนงานโรงงานของไทยทุก 100 คน เป็นผู้หญิงกี่คน?",
+    "answer": 45,
+    "unit": "คนจาก 100 คน",
+    "decimal_places": 0,
+    "tags": [
+      "industry",
+      "labor",
+      "women",
+      "gender"
+    ]
+  },
+  {
+    "question": "ปี 2568 สมุทรสาครมีโรงงานที่ได้รับอนุญาตกี่แห่ง?",
+    "answer": 6832,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "industry",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2568 กรุงเทพฯ มีโรงงานที่ได้รับอนุญาตกี่แห่ง?",
+    "answer": 5917,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "industry",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ปี 2568 ชลบุรีมีโรงงานที่ได้รับอนุญาตกี่แห่ง?",
+    "answer": 5425,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "industry",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2568 เงินลงทุนในโรงงานของระยองมีกี่ล้านล้านบาท?",
+    "answer": 3.08,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "industry",
+      "province",
+      "business"
+    ]
+  },
+  {
+    "question": "ปี 2568 เงินลงทุนในโรงงานที่ได้รับอนุญาตทั้งหมดของไทยมีกี่ล้านล้านบาท?",
+    "answer": 11.2,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 1,
+    "tags": [
+      "industry",
+      "business"
+    ]
+  },
+  {
+    "question": "สำมะโนธุรกิจและอุตสาหกรรมปี 2565 นับสถานประกอบการได้กี่แห่ง?",
+    "answer": 2626700,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "business",
+      "industry"
+    ]
+  },
+  {
+    "question": "ธุรกิจไทยทุก 100 แห่ง มีคนทำงาน 1 ถึง 5 คนกี่แห่ง?",
+    "answer": 88,
+    "unit": "แห่งจาก 100 แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "business",
+      "labor"
+    ]
+  },
+  {
+    "question": "สถานประกอบการในไทยที่จ้างคนมากกว่า 200 คนมีกี่แห่ง?",
+    "answer": 4975,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "business",
+      "labor"
+    ]
+  },
+  {
+    "question": "ไทยมีร้านค้าปลีก (สถานประกอบการ) กี่แห่ง?",
+    "answer": 883800,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "business",
+      "trade"
+    ]
+  },
+  {
+    "question": "สถานประกอบการบริการอาหารและเครื่องดื่ม (ร้านอาหาร แผงลอย คาเฟ่) มีกี่แห่ง?",
+    "answer": 379055,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "business",
+      "food"
+    ]
+  },
+  {
+    "question": "สำมะโนธุรกิจนับสถานประกอบการที่พักแรมได้กี่แห่ง?",
+    "answer": 34353,
+    "unit": "แห่ง",
+    "decimal_places": 0,
+    "tags": [
+      "business",
+      "hotels",
+      "tourism"
+    ]
+  },
+  {
+    "question": "มีคนทำงานในสถานประกอบการธุรกิจของไทยรวมทั้งหมดกี่คน (สำมะโนปี 2565)?",
+    "answer": 12959101,
+    "unit": "คน",
+    "decimal_places": 0,
+    "tags": [
+      "business",
+      "labor"
+    ]
+  },
+  {
+    "question": "ตามกฎหมายไทย สถานที่ที่ไม่มีเครื่องจักรใหญ่ต้องมีคนงานกี่คนจึงนับเป็น \"โรงงาน\"?",
+    "answer": 7,
+    "unit": "คนขึ้นไป",
+    "decimal_places": 0,
+    "tags": [
+      "industry",
+      "labor"
+    ]
+  },
+  {
+    "question": "ไทยผลิตแร่ได้มากกว่ากี่ชนิด?",
+    "answer": 40,
+    "unit": "ชนิด",
+    "decimal_places": 0,
+    "tags": [
+      "industry"
+    ]
+  },
+  {
+    "question": "ปี 2568 การไฟฟ้านครหลวง (กรุงเทพฯ นนทบุรี สมุทรปราการ) มีผู้ใช้ไฟฟ้ากี่ราย?",
+    "answer": 4383942,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "electricity",
+      "energy",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ปี 2568 การไฟฟ้าส่วนภูมิภาคมีผู้ใช้ไฟฟ้ากี่ราย?",
+    "answer": 21977502,
+    "unit": "ราย",
+    "decimal_places": 0,
+    "tags": [
+      "electricity",
+      "energy",
+      "province"
+    ]
+  },
+  {
+    "question": "ปี 2568 บ้านเรือนในเขตกรุงเทพฯ และปริมณฑลใช้ไฟฟ้ากี่ล้านหน่วย (kWh)?",
+    "answer": 16800,
+    "unit": "ล้านหน่วย",
+    "decimal_places": 0,
+    "tags": [
+      "electricity",
+      "household",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ปี 2568 บ้านเรือนนอกเขตกรุงเทพฯ และปริมณฑลใช้ไฟฟ้ากี่ล้านหน่วย (kWh)?",
+    "answer": 42100,
+    "unit": "ล้านหน่วย",
+    "decimal_places": 0,
+    "tags": [
+      "electricity",
+      "household"
+    ]
+  },
+  {
+    "question": "ปี 2568 สถานีชาร์จรถยนต์ไฟฟ้า (EV) ในเขตกรุงเทพฯ และปริมณฑลใช้ไฟฟ้ากี่ล้านหน่วย?",
+    "answer": 248,
+    "unit": "ล้านหน่วย",
+    "decimal_places": 0,
+    "tags": [
+      "ev",
+      "electricity",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ปี 2568 สถานีชาร์จรถยนต์ไฟฟ้า (EV) นอกเขตกรุงเทพฯ ใช้ไฟฟ้ากี่ล้านหน่วย?",
+    "answer": 296,
+    "unit": "ล้านหน่วย",
+    "decimal_places": 0,
+    "tags": [
+      "ev",
+      "electricity"
+    ]
+  },
+  {
+    "question": "ไฟถนนในเขตกรุงเทพฯ และปริมณฑลใช้ไฟฟ้าปีละกี่ล้านหน่วย?",
+    "answer": 516,
+    "unit": "ล้านหน่วย",
+    "decimal_places": 0,
+    "tags": [
+      "electricity",
+      "bangkok"
+    ]
+  },
+  {
+    "question": "ปี 2568 การสูบน้ำเพื่อการเกษตรใช้ไฟฟ้ากี่ล้านหน่วย?",
+    "answer": 420,
+    "unit": "ล้านหน่วย",
+    "decimal_places": 0,
+    "tags": [
+      "electricity",
+      "agriculture",
+      "water"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยขายน้ำมันดีเซลได้กี่ล้านลิตร?",
+    "answer": 23500,
+    "unit": "ล้านลิตร",
+    "decimal_places": 0,
+    "tags": [
+      "fuel",
+      "energy"
+    ]
+  },
+  {
+    "question": "ปี 2568 ขายแก๊สโซฮอล์ 91 ได้กี่ล้านลิตร?",
+    "answer": 2380,
+    "unit": "ล้านลิตร",
+    "decimal_places": 0,
+    "tags": [
+      "fuel",
+      "energy"
+    ]
+  },
+  {
+    "question": "ปี 2568 ขายแก๊สโซฮอล์ E20 ได้กี่ล้านลิตร?",
+    "answer": 1850,
+    "unit": "ล้านลิตร",
+    "decimal_places": 0,
+    "tags": [
+      "fuel",
+      "energy"
+    ]
+  },
+  {
+    "question": "ปี 2568 ขายแก๊สโซฮอล์ E85 ได้กี่ล้านลิตร?",
+    "answer": 21.7,
+    "unit": "ล้านลิตร",
+    "decimal_places": 1,
+    "tags": [
+      "fuel",
+      "energy"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยขายก๊าซหุงต้ม (LPG) ได้กี่ล้านกิโลกรัม?",
+    "answer": 3730,
+    "unit": "ล้านกิโลกรัม",
+    "decimal_places": 0,
+    "tags": [
+      "fuel",
+      "energy"
+    ]
+  },
+  {
+    "question": "ปี 2568 ปั๊ม ปตท. ขายน้ำมันดีเซลได้กี่ล้านลิตร?",
+    "answer": 16400,
+    "unit": "ล้านลิตร",
+    "decimal_places": 0,
+    "tags": [
+      "fuel",
+      "energy",
+      "business"
+    ]
+  },
+  {
+    "question": "ปี 2568 ปั๊มเชลล์ขายน้ำมันดีเซลได้กี่ล้านลิตร?",
+    "answer": 3880,
+    "unit": "ล้านลิตร",
+    "decimal_places": 0,
+    "tags": [
+      "fuel",
+      "energy",
+      "business"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยนำเข้าสินค้าจากจีน ซึ่งเป็นแหล่งนำเข้าอันดับหนึ่ง กี่ล้านล้านบาท?",
+    "answer": 3.57,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "trade",
+      "import"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยขาดดุลการค้ากับจีนกี่ล้านล้านบาท?",
+    "answer": 2.26,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "trade",
+      "import",
+      "export"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกไปจีนกี่ล้านล้านบาท?",
+    "answer": 1.31,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "trade",
+      "export"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยนำเข้าจากญี่ปุ่นกี่ล้านบาท?",
+    "answer": 985000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "import"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกไปอินเดียกี่ล้านบาท?",
+    "answer": 522000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยขาดดุลการค้ากับไต้หวันกี่ล้านบาท?",
+    "answer": 676000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "import",
+      "export"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกไปกัมพูชากี่ล้านบาท?",
+    "answer": 241000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export"
+    ]
+  },
+  {
+    "question": "ปี 2565 ซึ่งเป็นปีที่ไทยขาดดุลการค้ามากที่สุดในรอบสิบปี ไทยขาดดุลการค้ากี่ล้านบาท?",
+    "answer": 612600,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "import",
+      "export"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกเครื่องคอมพิวเตอร์ อุปกรณ์และส่วนประกอบ ซึ่งเป็นสินค้าส่งออกอันดับหนึ่ง กี่ล้านล้านบาท?",
+    "answer": 1.31,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "trade",
+      "export",
+      "technology"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกรถยนต์และชิ้นส่วนกี่ล้านล้านบาท?",
+    "answer": 1.03,
+    "unit": "ล้านล้านบาท",
+    "decimal_places": 2,
+    "tags": [
+      "trade",
+      "export",
+      "vehicles"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยนำเข้าน้ำมันดิบกี่ล้านบาท?",
+    "answer": 877000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "import",
+      "fuel"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยซื้อน้ำมันดิบจากสหรัฐอาหรับเอมิเรตส์ ซึ่งเป็นผู้ขายน้ำมันดิบให้ไทยมากที่สุด กี่ล้านบาท?",
+    "answer": 378800,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "import",
+      "fuel"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกยางธรรมชาติกี่ล้านบาท?",
+    "answer": 165000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ปี 2568 มูลค่าส่งออกยางธรรมชาติของไทยทุก 100 บาท ไปจีนกี่บาท?",
+    "answer": 39,
+    "unit": "บาทจาก 100 บาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกมันสำปะหลังกี่ล้านบาท?",
+    "answer": 96300,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกไก่แช่เย็นแช่แข็งกี่ล้านบาท?",
+    "answer": 47300,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "livestock",
+      "food"
+    ]
+  },
+  {
+    "question": "ญี่ปุ่นซึ่งเป็นประเทศที่ซื้อไก่แช่แข็งจากไทยมากที่สุด ซื้อไปกี่ล้านบาท?",
+    "answer": 16600,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "livestock",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกกุ้งกี่ล้านบาท?",
+    "answer": 22800,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "fishery"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกปลาทูน่ากระป๋องกี่ล้านบาท?",
+    "answer": 76700,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "fishery",
+      "food"
+    ]
+  },
+  {
+    "question": "ลิเบียซึ่งซื้อปลาทูน่ากระป๋องจากไทยมากเป็นอันดับ 2 รองจากสหรัฐฯ ซื้อไปกี่ล้านบาท?",
+    "answer": 6400,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "fishery",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกสับปะรดกระป๋องกี่ล้านบาท?",
+    "answer": 13900,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "food",
+      "agriculture"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกน้ำตาลกี่ล้านบาท?",
+    "answer": 90500,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "agriculture",
+      "food"
+    ]
+  },
+  {
+    "question": "อินโดนีเซียซึ่งเป็นประเทศที่ซื้อน้ำตาลจากไทยมากที่สุด ซื้อไปกี่ล้านบาท?",
+    "answer": 24700,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "agriculture",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ไทยส่งออกคอมพิวเตอร์และอุปกรณ์ไปสหรัฐฯ กี่ล้านบาท?",
+    "answer": 541000,
+    "unit": "ล้านบาท",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "technology"
+    ]
+  },
+  {
+    "question": "ปี 2568 การส่งออกคอมพิวเตอร์และอุปกรณ์ของไทยโตขึ้นกี่เปอร์เซ็นต์?",
+    "answer": 48,
+    "unit": "%",
+    "decimal_places": 0,
+    "tags": [
+      "trade",
+      "export",
+      "technology"
+    ]
+  },
+  {
+    "question": "ปี 2568 ราคาผักและผลไม้ในไทยเปลี่ยนไปกี่เปอร์เซ็นต์?",
+    "answer": -5.3,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "prices",
+      "inflation",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ราคาอาหารสำเร็จรูปในไทยขึ้นกี่เปอร์เซ็นต์?",
+    "answer": 2.6,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "prices",
+      "inflation",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ราคาพลังงานในไทยเปลี่ยนไปกี่เปอร์เซ็นต์?",
+    "answer": -4.3,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "prices",
+      "inflation",
+      "energy"
+    ]
+  },
+  {
+    "question": "ปี 2568 เงินเฟ้อพื้นฐานของไทยขึ้นกี่เปอร์เซ็นต์?",
+    "answer": 0.8,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "prices",
+      "inflation"
+    ]
+  },
+  {
+    "question": "ปี 2568 ราคาเครื่องประกอบอาหารและเครื่องปรุงรสขึ้นกี่เปอร์เซ็นต์?",
+    "answer": 3.6,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "prices",
+      "inflation",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2568 ราคาเนื้อสัตว์ เป็ดไก่ และสัตว์น้ำขึ้นกี่เปอร์เซ็นต์?",
+    "answer": 2.5,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "prices",
+      "inflation",
+      "food"
+    ]
+  },
+  {
+    "question": "ปี 2567 ราคาข้าว แป้ง และผลิตภัณฑ์จากแป้งขึ้นกี่เปอร์เซ็นต์?",
+    "answer": 2.7,
+    "unit": "%",
+    "decimal_places": 1,
+    "tags": [
+      "prices",
+      "inflation",
+      "food",
+      "rice"
+    ]
+  }
+]
