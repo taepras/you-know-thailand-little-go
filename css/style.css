@@ -118,10 +118,16 @@ button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
 }
 .card-body { flex: 1; display: flex; flex-direction: column; padding: 18px 18px 22px; overflow-y: auto; }
 .counter { margin: 0 0 6px; font: 700 15px var(--font-display); color: var(--muted); }
-.question-time { margin: 0 0 2px; color: var(--muted); font-size: 21px; font-weight: 400; }
-.question-time.small { font-size: 17px; }
-.question { margin: 0 0 18px; font-size: 21px; font-weight: 600; line-height: 1.45; }
-.question.small { font-size: 17px; margin-bottom: 8px; }
+.question-head {
+  display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.45em;
+  margin: 0 0 18px;
+}
+.question-time {
+  margin: 0; color: var(--muted); font: 400 0.9em var(--font);
+}
+.question-time.small { font-size: 0.9em; }
+.question { margin: 0; font-size: 21px; font-weight: 600; line-height: 1.45; }
+.question.small { font-size: 17px; margin: 0; }
 
 /* ---------- cover ---------- */
 .cover { padding-top: 4px; }

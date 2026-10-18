@@ -59,8 +59,10 @@
       <div class="card q-card">
         <div class="card-body">
           <p class="counter" id="q-counter"></p>
-          <p class="question-time" id="q-time" hidden></p>
-          <p class="question" id="q-text"></p>
+          <div class="question-head">
+            <p class="question-time" id="q-time" hidden></p>
+            <p class="question" id="q-text"></p>
+          </div>
           <div class="answer-box">
             <button type="button" id="sign-btn" class="sign" aria-label="สลับบวก/ลบ" hidden>±</button>
             <input id="q-input" type="text" inputmode="decimal" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="คำตอบของคุณ">
@@ -82,8 +84,10 @@
       <div class="card r-card">
         <div class="card-body">
           <p class="counter" id="r-counter"></p>
-          <p class="question-time small" id="r-time" hidden></p>
-          <p class="question small" id="r-text"></p>
+          <div class="question-head reveal-head">
+            <p class="question-time small" id="r-time" hidden></p>
+            <p class="question small" id="r-text"></p>
+          </div>
           <div class="chart-wrap" id="r-chart"><div class="loading">กำลังโหลดคำตอบของคนอื่น…</div></div>
           <div class="reveal-stats" id="r-stats"></div>
           <p class="reference-note" id="r-reference" hidden></p>

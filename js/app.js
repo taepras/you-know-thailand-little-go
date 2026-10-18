@@ -24,7 +24,7 @@ const params = new URLSearchParams(location.search);
 const dateParam = params.get('date');
 const dateKey = /^\d{4}-\d{2}-\d{2}$/.test(dateParam || '') ? dateParam : bangkokDateKey();
 const requestedMode = params.get('mode');
-const mode = ['random', 'grouped', 'balanced'].includes(requestedMode) ? requestedMode : 'random';
+const mode = requestedMode === 'grouped' || requestedMode === 'balanced' ? requestedMode : 'random';
 const dayFileByMode = {
   random: 'data/days-random.json',
   grouped: 'data/days-grouped.json',
