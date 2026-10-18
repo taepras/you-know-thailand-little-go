@@ -128,13 +128,15 @@ button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
 .date { margin: 0; font: 700 18px var(--font-display); text-align: center; }
 .played { margin: 0; text-align: center; color: var(--muted); font-size: 14px; }
 .title {
-  margin: 22px 0 18px;
-  font: 700 clamp(36px, 11vw, 48px)/1.08 var(--font-display);
+  margin: 32px 0 24px;
+  font: 700 clamp(36px, 11vw, 48px)/1.1 var(--font-display);
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.01em;
   font-style: italic;
   transform: rotate(-12deg);
+  display: inline-block;
+  text-shadow: 0px 4px 0 #0004;
 }
 .how { flex: 1; text-align: center; margin-top: 24px; }
 .how h2 { margin: 0 0 6px; font: 700 18px var(--font-display); }
