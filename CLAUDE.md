@@ -18,6 +18,7 @@ Daily number-estimation game about Thailand's stats. Vanilla HTML/CSS/ES modules
 ## Conventions and gotchas
 
 - UI copy is Thai. Keep new strings Thai.
+- `data/days.json` holds hand-curatable per-date sets; `node scripts/sheet-to-days.mjs` rebuilds it from checked rows in the Thailand question sheet, while `node scripts/generate-days.mjs` fills schedule gaps from the bank. The app prefers curated days and falls back to the seeded pick for missing dates and extra sets.
 - Question ids are array indexes in `data/questions-v1.json`: **only append**, never reorder or delete, or past days change.
 - The date is Asia/Bangkok time, not the browser's.
 - Timer is wall-clock based (`state.qStart`), so refreshing mid-question doesn't reset it.

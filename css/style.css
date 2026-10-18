@@ -118,6 +118,8 @@ button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
 }
 .card-body { flex: 1; display: flex; flex-direction: column; padding: 18px 18px 22px; overflow-y: auto; }
 .counter { margin: 0 0 6px; font: 700 15px var(--font-display); color: var(--muted); }
+.question-time { margin: 0 0 2px; color: var(--muted); font-size: 21px; font-weight: 400; }
+.question-time.small { font-size: 17px; }
 .question { margin: 0 0 18px; font-size: 21px; font-weight: 600; line-height: 1.45; }
 .question.small { font-size: 17px; margin-bottom: 8px; }
 
@@ -137,6 +139,7 @@ button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
 .how ol { margin: 0 0 18px; padding-left: 1.4em; font-size: 15px; }
 .how li { margin-bottom: 4px; }
 #start-btn { margin-bottom: 4px; }
+.day-theme { margin: 4px 0 0; color: var(--muted); text-align: center; font-size: 14px; }
 
 /* ---------- question ---------- */
 .answer-box {
@@ -154,6 +157,8 @@ button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
   color: var(--ink);
   padding: 4px 0;
 }
+#q-input[data-len='l'] { font-size: 26px; }
+#q-input[data-len='xl'] { font-size: 20px; }
 #q-input::placeholder { color: var(--muted); opacity: 0.5; }
 .unit { font-size: 14px; color: var(--muted); text-align: right; max-width: 38%; line-height: 1.25; }
 .sign {
@@ -205,6 +210,7 @@ button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
 .stat-text { font-size: 14px; line-height: 1.5; }
 .stat-text b { font-size: 15px; }
 .stat-text .you { color: var(--blue); } .stat-text .ans { color: var(--red); }
+.reference-note { margin: 14px 0 0; color: var(--muted); font-size: 12px; line-height: 1.4; }
 #next-btn { margin-top: 14px; }
 
 /* ---------- summary ---------- */
@@ -230,8 +236,11 @@ button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
 .review ol { margin: 0 0 8px; padding-left: 1.3em; font-size: 14px; }
 .review li { padding: 8px 0; border-top: 1px dashed var(--muted); }
 .review li .q { display: block; margin-bottom: 2px; }
+.review li .review-time { display: block; margin: -2px 0 3px; color: var(--muted); font-size: 12px; }
 .review li .res { color: var(--muted); }
 .review li .res b { color: var(--ink); }
+.review li .answer-reference { display: block; margin-top: 3px; color: var(--muted); font-size: 12px; line-height: 1.4; }
+.review li .answer-reference a { color: var(--blue); text-decoration: underline; text-underline-offset: 2px; }
 
 .share-box {
   margin: 14px 0 0; padding: 14px; white-space: pre-wrap;
@@ -241,10 +250,12 @@ button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
 #again-btn { margin-top: 14px; }
 .next-in { text-align: center; color: var(--muted); font-size: 14px; margin: 14px 0 0; }
 .next-in b { font-variant-numeric: tabular-nums; color: var(--ink); }
+.next-theme { margin: 2px 0 0; color: var(--muted); text-align: center; font-size: 14px; }
 
 @media (max-height: 640px) {
   .title { margin: 10px 0 10px; font-size: 34px; }
-  .question { font-size: 18px; margin-bottom: 10px; }
+  .question:not(.small), .question-time:not(.small) { font-size: 18px; }
+  .question { margin-bottom: 10px; }
   .skyline, .skyline.small { height: 48px; }
 }
 @media (prefers-reduced-motion: reduce) {
@@ -253,8 +264,8 @@ button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
 }
 
 @media (min-width: 768px) {
-  .question { font-size: 24px; }
-  .question.small { font-size: 19px; }
+  .question:not(.small), .question-time:not(.small) { font-size: 24px; }
+  .question.small, .question-time.small { font-size: 19px; }
   .card { flex: 0 1 auto; max-height: 100%; }
   .q-card, .r-card { flex: 1 1 auto; max-height: 640px; }
   .title { font-size: 56px; }

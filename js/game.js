@@ -2,9 +2,10 @@
 // No DOM access here so it can be unit-tested in node.
 
 export const QUESTIONS_PER_DAY = 5;
-export const SECONDS_PER_QUESTION = 30;
+export const SECONDS_PER_QUESTION = 60;
 export const MAX_SCORE_PER_QUESTION = 100;
 export const GOOD_ZONE_SCORE = 60; // guesses scoring >= this are shaded green on the reveal chart
+const SCORE_SCALE_MULTIPLIER = 1.5;
 
 // ---------- seeded randomness ----------
 
@@ -107,15 +108,15 @@ export function kindOf(q) {
 }
 
 export function scaleOf(q) {
-  if (q.scale) return q.scale;
+  if (q.scale) return q.scale * SCORE_SCALE_MULTIPLIER;
   const kind = kindOf(q);
-  if (kind === 'year') return 10;
+  if (kind === 'year') return 10 * SCORE_SCALE_MULTIPLIER;
   if (kind === 'linear') {
-    if (q.unit === '' && Math.abs(q.answer) < 1) return 0.1;
-    if (q.unit.includes('%') && Math.abs(q.answer) < 10) return 3;
-    return 12;
+    if (q.unit === '' && Math.abs(q.answer) < 1) return 0.1 * SCORE_SCALE_MULTIPLIER;
+    if (q.unit.includes('%') && Math.abs(q.answer) < 10) return 3 * SCORE_SCALE_MULTIPLIER;
+    return 12 * SCORE_SCALE_MULTIPLIER;
   }
-  return 0.25; // decades of error that cost ~63% of the score
+  return 0.25 * SCORE_SCALE_MULTIPLIER; // decades of error that cost ~49% of the score
 }
 
 export function allowsNegative(q) {
@@ -170,9 +171,12 @@ export function fmtNum(q, v) {
 
 export function fmtCompact(q, v) {
   if (v == null || !Number.isFinite(v)) return '–';
-  if (kindOf(q) !== 'year' && Math.abs(v) >= 1e6) {
-    const m = v / 1e6;
-    return `${m.toLocaleString('en-US', { maximumFractionDigits: Math.abs(m) >= 100 ? 0 : Math.abs(m) >= 10 ? 1 : 2 })} ล้าน`;
+  const abs = Math.abs(v);
+  if (kindOf(q) !== 'year' && abs >= 1e6) {
+    const [div, word] = abs >= 1e12 ? [1e12, 'ล้านล้าน'] : [1e6, 'ล้าน'];
+    const m = v / div;
+    const digits = Math.abs(m) >= 100 ? 0 : Math.abs(m) >= 10 ? 1 : 2;
+    return `${m.toLocaleString('en-US', { maximumFractionDigits: digits })} ${word}`;
   }
   return fmtNum(q, v);
 }

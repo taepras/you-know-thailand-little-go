@@ -48,6 +48,8 @@
           </ol>
         </div>
         <button id="start-btn" class="btn primary big" type="button">เล่นเลย!</button>
+        <p class="day-theme" id="cover-theme" hidden></p>
+        <button id="reset-data-btn" class="btn" type="button" hidden>ล้างข้อมูลที่บันทึกและเริ่มใหม่</button>
       </div>
       <svg class="skyline" aria-hidden="true"><use href="#skyline"/></svg>
     </section>
@@ -58,6 +60,7 @@
       <div class="card q-card">
         <div class="card-body">
           <p class="counter" id="q-counter"></p>
+          <p class="question-time" id="q-time" hidden></p>
           <p class="question" id="q-text"></p>
           <div class="answer-box">
             <button type="button" id="sign-btn" class="sign" aria-label="สลับบวก/ลบ" hidden>±</button>
@@ -80,9 +83,11 @@
       <div class="card r-card">
         <div class="card-body">
           <p class="counter" id="r-counter"></p>
+          <p class="question-time small" id="r-time" hidden></p>
           <p class="question small" id="r-text"></p>
           <div class="chart-wrap" id="r-chart"><div class="loading">กำลังโหลดคำตอบของคนอื่น…</div></div>
           <div class="reveal-stats" id="r-stats"></div>
+          <p class="reference-note" id="r-reference" hidden></p>
         </div>
       </div>
       <button id="next-btn" class="btn primary" type="button" disabled>ข้อต่อไป</button>
@@ -102,6 +107,7 @@
         <section class="review" aria-label="เฉลยทั้งหมด"><h2>เฉลยทั้งหมด</h2><ol id="sum-review-list"></ol></section>
         <button id="again-btn" class="btn" type="button">เล่นชุดใหม่ทันที</button>
         <p class="next-in">โจทย์ชุดใหม่ใน <b id="next-in">--:--:--</b></p>
+        <p class="next-theme" id="sum-tomorrow-theme" hidden></p>
       </div>
     </section>
   </main>
