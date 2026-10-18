@@ -134,7 +134,7 @@ button:focus-visible, input:focus-visible, summary:focus-visible { outline: 3px 
   text-transform: uppercase;
   letter-spacing: 0.01em;
 }
-.how { flex: 1; }
+.how { flex: 1; text-align: center; margin-top: 24px; }
 .how h2 { margin: 0 0 6px; font: 700 18px var(--font-display); }
 .how ol { margin: 0 0 18px; padding-left: 1.4em; font-size: 15px; }
 .how li { margin-bottom: 4px; }
